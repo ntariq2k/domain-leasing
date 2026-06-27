@@ -106,16 +106,16 @@
         "date": "Jun 23, 2024"
       },
       {
-        "title": "The Realtors’ Big Defeat (Published 2024)",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWY0YmFlVzdVX1BzMDFXLXREakJZQ2xQTVh3UWdyYS1YYjJweEdsTC1BdHNvOHZGZ3p4b0pqQ3J5dTFLNUIzODk2ZnE4Y042OGVaRVNLcl93ckRGQ3JkbnRueXRpSENsRHFad2NFQkVJUWNETXIxWTJ4N21xWGU5alhxNHEwTFhyak5HZXNmQXY0M2VI?oc=5",
-        "source": "The New York Times",
-        "date": "Mar 18, 2024"
-      },
-      {
         "title": "September 2024 Monthly Housing Market Trends Report",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmM05iZkhjNlJfV0pVR0J2aUMtTVdmNFI1TE9rV1RqUUpaS3hCLUZZclVyVm9raFJnaEJfdUZrOEdtLVRXTlhLZ0RyN1Z5b1RLTHlRQzBuN3J1ZTRnWE9YckZMSQ?oc=5",
         "source": "Realtor.com",
         "date": "Oct 03, 2024"
+      },
+      {
+        "title": "The Realtors’ Big Defeat (Published 2024)",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWY0YmFlVzdVX1BzMDFXLXREakJZQ2xQTVh3UWdyYS1YYjJweEdsTC1BdHNvOHZGZ3p4b0pqQ3J5dTFLNUIzODk2ZnE4Y042OGVaRVNLcl93ckRGQ3JkbnRueXRpSENsRHFad2NFQkVJUWNETXIxWTJ4N21xWGU5alhxNHEwTFhyak5HZXNmQXY0M2VI?oc=5",
+        "source": "The New York Times",
+        "date": "Mar 18, 2024"
       },
       {
         "title": "Realtor.com Investor Report: Investor Buyer Share Edges Higher; Investor Share of Sellers Peaks",
@@ -129,34 +129,10 @@
     "niche": "Queens Real Estate",
     "articles": [
       {
-        "title": "Three Queens neighborhoods among top 10 in NYC expected to have hottest markets in 2026: report",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmeG5naGFzZTZvSG9ucmtWQU1aeXBXbVpKdFAzZlVpalJGb0otUkI3T2ZhS2lfMFNWWGtTTGRHeE1uX0hyd3BxMnlEbS1kd053Zkc5VkdSMk5ZQzZ3RnNKSG14WW1qWkNrUWFxTDVydTFfS25tMFBIbTlIUXQ?oc=5",
-        "source": "qns.com",
-        "date": "Jan 08, 2026"
-      },
-      {
-        "title": "All-Cash Buyers Account for 60% of Home Sales in NYC in First Half of 2025",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2c2NGxBODAxYklGZ2c5RXZWSUZZN0s3SUdBZUlTNWpvVGtZODdrakQ1M0ZJVlpTaGdmY3NFVXhIVmFndUZ2Y0hwTFRCYmw3dlRveWFhcEJmNEFhM3VseFpyQm5XVHJ2ekRod0ZWcUJrVjBPcE91MVhKV1pFSmp2QkZkcmJfZw?oc=5",
-        "source": "Realtor.com",
-        "date": "Dec 02, 2025"
-      },
-      {
-        "title": "NYC Housing Market: Prices, Trends, Forecast 2025-2026",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDWkpTeS05c05WeXQzblRVTHQ5ZE1KUVdrbHRMbkl2QlB2ZFdNWDdzNWpKOGZweEhiQ1FhWWFhVWFFWmMzVWNjTWlHSXpTYjhnTFRmNjU1aXhoejVQRjNGN0xTUG5vRU1pM2JiQjVibjBfTDlo?oc=5",
-        "source": "Norada Real Estate Investments",
-        "date": "Dec 08, 2025"
-      },
-      {
-        "title": "Why Staten Island has the highest homeowner turnover in NYC",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakN1aTRHY2YyNXd0X1VGZzlvR3A3VDhsaEtyWE02OFhnd3k2WjczbDV3UTJoVng1RmZRSmxRTW9KaDJ2T1FGRmJta0FxcGp5NWs3UG5VZ0d3MzBrRmRhQTRGWGFDVUEyRFlYSUNZTzlYUUIwWkd5MlVsS0FBSTc1dEwwUjF1c2UtcTI5LTg2b3NzX0s0NXQ4YkdodW5qZUR1cVBULXBqbw?oc=5",
+        "title": "It takes 20 years for New Yorkers to save for a 20% down payment as affordability issues persist",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb2N5cERKVFMxWkhCRk9Ubk5CaFlka3Rscm9KSTBBU3dhM2Y4NWVGUnZRTng3azdYREN2eDBPUENKV01RU0pFYmpwT01WVEZBSFBIUFNOcXZZbHlBRUY2Z2tISW5jZjhaYmo2QW9lYTBrejFMOEVFakZzeTB5YWtORFF6bFBJdmNlc3NXT3U2X2tHZnYwNTJlZ1FMVTJfaUMxRnZjajBzaG5hZw?oc=5",
         "source": "New York Post",
-        "date": "Jan 19, 2026"
-      },
-      {
-        "title": "$4.6M Hudson Yards Maintains Top Spot, Luxury Sales in Malba Set $2.5M Price Record for Queens",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNElaUVlVQS11NU51UF9YbV81QnNjZzc1U1dRQWlWUENWaTdXUUk0V0hVZUtUQWNCWlNrZmM0d252dklvMWVINzRTbzUxWHBqRS1PZEEzX0ZnM3VZeW51U2FZOE5oLXV0Um8tQTh3bUdLa2xZTl9OdTBwWHl4UkpibFZDdw?oc=5",
-        "source": "PropertyShark",
-        "date": "Apr 23, 2026"
+        "date": "May 14, 2026"
       },
       {
         "title": "Michigan and Wisconsin beat the coasts for the hottest housing markets, Redfin finds",
@@ -165,28 +141,52 @@
         "date": "May 07, 2026"
       },
       {
-        "title": "Homes Still Remain Unaffordable in First Quarter",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdGFpS1NsS2ZQNi1BQVo1eENSc2UteDdDYnpEWlA0Ui1kR1BkTGljbEFyLXE4d2ZZS0poZkdRaDV4OHA3cTZRdm9LUGJ3UkRwMTA3dUNpeUxFUTJRakhHVkNBTEJGb2lmbktJM0lZZGNyNm1DaG9RNFJ3ZVhkZkZ6OU15R0xhSjdmQzQ2Mkl5eUsxVVhXamc?oc=5",
-        "source": "attom",
-        "date": "Mar 26, 2026"
+        "title": "$4.6M Hudson Yards Maintains Top Spot, Luxury Sales in Malba Set $2.5M Price Record for Queens",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNElaUVlVQS11NU51UF9YbV81QnNjZzc1U1dRQWlWUENWaTdXUUk0V0hVZUtUQWNCWlNrZmM0d252dklvMWVINzRTbzUxWHBqRS1PZEEzX0ZnM3VZeW51U2FZOE5oLXV0Um8tQTh3bUdLa2xZTl9OdTBwWHl4UkpibFZDdw?oc=5",
+        "source": "PropertyShark",
+        "date": "Apr 23, 2026"
       },
       {
-        "title": "Rise of all-cash deals in NYC reshapes the real estate market",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMUI5Q0RIODBPNG5uLXNpVzZqbHM5Mkd6NF9vbWJwSjgzTEdGTTRUeExZczZLX3RIbmw0OGg3V1lqdlhGQUpNRXBZUmx2ZW5zZEozX0FoN3J5dWUyTUd1MTVFTnVQNUFMeDlvS1ByczFxRUg5cTJDZnJkc0V4cnhjR2ZLdmk0UFFSdmpvZVY2VFFVLTFzZjRWSktZX0t1QQ?oc=5",
-        "source": "Brick Underground",
-        "date": "Aug 05, 2025"
-      },
-      {
-        "title": "Six Queens neighborhoods among the fastest for home buyers to save for a 20% down payment in April 2026: report",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sc1BGdE9hbmZ2R2VhbEZKalNDdHFuckJUUm9MZDJXZWN0alFwaWoyYmIyRUpaUXFnei1RRXFSWENmeWlBcjYyWE1ja0F2MVlENlExTnA0Z3BlMjFLQWlSaExkZTd6dTdKQ3kzWmV5N0RVSzNwUGtz?oc=5",
+        "title": "Three Queens neighborhoods among top 10 in NYC expected to have hottest markets in 2026: report",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmeG5naGFzZTZvSG9ucmtWQU1aeXBXbVpKdFAzZlVpalJGb0otUkI3T2ZhS2lfMFNWWGtTTGRHeE1uX0hyd3BxMnlEbS1kd053Zkc5VkdSMk5ZQzZ3RnNKSG14WW1qWkNrUWFxTDVydTFfS25tMFBIbTlIUXQ?oc=5",
         "source": "qns.com",
-        "date": "May 14, 2026"
+        "date": "Jan 08, 2026"
       },
       {
-        "title": "President Trump’s Childhood Home in Queens Is Hitting the Market Again",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1FKNTJYclc1YTRBSEFyTlRhZDVQd2ZSdkZ0SUNNdXhJWUh2dHUtR2hqR3hQZDBSWjJqRmNpTWRGMzRBcHpLM2FnX2NWZko2eGFxUGxzcEpNWDQ4WmxIbU00U0o4VzRNalNWcmZpTFIxTlJrU0hFanF1Vk85bTh5WExCVG5BRjlUdGVlUF82dHBvWFc4c2hUNFdaVXJwYVJiQ25PODVhMW96dFVHS2hFVlY2dHVTSHVGM002Mjdn?oc=5",
+        "title": "Barbara Corcoran Reveals the Best New York City Neighborhood for Investors",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTkwbWVKR0tIekRVVmxoOVRKaWt2UDBfZ0lKbWJQQWpPN2NuSm5YWkRSVEF2SkV6c1p0b1BwZkdwdVFMMVZ6R0ZjVkc2MFN2Vi15cDJGZWRmUTVDX3dfekQxcy00MkR0VVk2YVpFaEg0V2ZieE5icjFpX2wwY0R0VHRWaEZOQm1EUU9MUEV3QWp5TEJLWXVXZ0ZnTQ?oc=5",
         "source": "Realtor.com",
-        "date": "Nov 07, 2025"
+        "date": "Feb 03, 2026"
+      },
+      {
+        "title": "NYC will see a busier-than-normal sales season this spring — see why",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlhhcUFYalRsVDZabzdtYXF3TUpXT04zVDFBWk9Ucnl4YTFNTHFGdElxYXR5Q2psZ1g1LU1hT1hqOWpOaThkWnAyTXpubXh5SGpBbHg2dkMxbi1XVjJHbDBmSjJSYWVSMnhmLVJ2UkoxSlY3Y25rUklPVGJtU1JzRzNtLWdodFZvY3JiLTVtMW05eE5qSjBkSk42c0wtdHpQWEg0?oc=5",
+        "source": "New York Post",
+        "date": "Jan 20, 2026"
+      },
+      {
+        "title": "In NYC's hyper-competitive real estate market, a new report finds cash is king",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmU0azhGV0FJMmc3cDJLbVRaSktyaERqa3FUdVhCVng4ekVscVV1UGFXdHl4R2trS3dhaEEzdEJMVXFtM0t0clRhWTg4akdlSG1uTkdNOEF1UXhjV2ducWVSaXN3SHdVTTVWVHBEUGwxMm12ME5lbVpuU3pwRVJVUjFCbTNPN3cxejZUTVpXdjJRM1VvQzVHVlhHZlZCMTdzTnZLVUhB?oc=5",
+        "source": "Gothamist",
+        "date": "Nov 28, 2025"
+      },
+      {
+        "title": "NYC neighborhoods where homebuyers can pay less",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzBjUkJnTlJxT1FRdnUxZURPOC15dk0yTVBiU0ZoUWtXN2xfbUpSRHJlMVMzS0tpQ3F6eXhhMW8tS3F4cV9Sc0p3SlZqaG43Szc1bXhEUTZTVjgtUmdoclZSdU5QYmFkbWlqWW16MkF4WUhwVzY2ZV95X2h1T0d4bmh0VzlFaHBRMzc00gGQAUFVX3lxTE5aWW51ZkRKMnFFcDVJMlBHdENOUUJ4MEhKOVI2MWIwUjk2SmpWUWtFNjFLZ0UyXzBSTFNUejNiNUxrUmRXOWcxY2NFQVYxUU4yYzl6Y3dabllfNC03NTl3ZV9lU2FrRDlKYmdTcks5LVFUTjc0clpVVW9LVXFNRXNFaWdpODBkYk9DLWZ5NEEwbg?oc=5",
+        "source": "FOX 5 New York",
+        "date": "Nov 14, 2025"
+      },
+      {
+        "title": "Why Staten Island has the highest homeowner turnover in NYC",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakN1aTRHY2YyNXd0X1VGZzlvR3A3VDhsaEtyWE02OFhnd3k2WjczbDV3UTJoVng1RmZRSmxRTW9KaDJ2T1FGRmJta0FxcGp5NWs3UG5VZ0d3MzBrRmRhQTRGWGFDVUEyRFlYSUNZTzlYUUIwWkd5MlVsS0FBSTc1dEwwUjF1c2UtcTI5LTg2b3NzX0s0NXQ4YkdodW5qZUR1cVBULXBqbw?oc=5",
+        "source": "New York Post",
+        "date": "Jan 19, 2026"
+      },
+      {
+        "title": "NYC Housing Market: Prices, Trends, Forecast 2025-2026",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDWkpTeS05c05WeXQzblRVTHQ5ZE1KUVdrbHRMbkl2QlB2ZFdNWDdzNWpKOGZweEhiQ1FhWWFhVWFFWmMzVWNjTWlHSXpTYjhnTFRmNjU1aXhoejVQRjNGN0xTUG5vRU1pM2JiQjVibjBfTDlo?oc=5",
+        "source": "Norada Real Estate Investments",
+        "date": "Dec 08, 2025"
       },
       {
         "title": "Exclusive | Home Buyers Are Paying Millions to Experience the ‘Fairy Tale’ of Forest Hills",
@@ -195,10 +195,28 @@
         "date": "Jun 26, 2025"
       },
       {
-        "title": "Spotlight: New York City’s Homeowner Housing Market",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUprbndDa29EMlVsLTN0NTAtOHBZSlVobDI0dFNSTEVYMF95NFpYNUZVSU00NHAzQzlOVXgycnBQRGo4aVFoNFdweUFvUUF2UkpVWlR6Mlp0MWtJc0djRUNMZDktd0Y0MlpfTnQ2NEFzNkpGVEZndTVMRjcwUDhXdWtPOGxUdF9jVTRQbC14aw?oc=5",
-        "source": "NYC.gov",
-        "date": "Mar 12, 2024"
+        "title": "Trump’s childhood home in Queens back on the market for $2.3M after gut renovation",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcS11WXE3MDA1T2FyaHY4cUNHaFp0MEtjc2U0clo0RzYwWFp1Zm5Qd0J5OVZEX1Ezd0VpMllUeXBOeVlyNE9FTk5weEp0MndZYl9DYV9YMXFmUElSallfOFBRTlVrV1V3S29hUWtDb3A2OThsd1FCRzJMMnVoX0xhNGhOTENKRlJab05BMVM4X1NKN0U?oc=5",
+        "source": "6sqft",
+        "date": "Nov 10, 2025"
+      },
+      {
+        "title": "Rise of all-cash deals in NYC reshapes the real estate market",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMUI5Q0RIODBPNG5uLXNpVzZqbHM5Mkd6NF9vbWJwSjgzTEdGTTRUeExZczZLX3RIbmw0OGg3V1lqdlhGQUpNRXBZUmx2ZW5zZEozX0FoN3J5dWUyTUd1MTVFTnVQNUFMeDlvS1ByczFxRUg5cTJDZnJkc0V4cnhjR2ZLdmk0UFFSdmpvZVY2VFFVLTFzZjRWSktZX0t1QQ?oc=5",
+        "source": "Brick Underground",
+        "date": "Aug 05, 2025"
+      },
+      {
+        "title": "One Block, Five Flips: How House Flipping is Transforming Neighborhoods Like South Jamaica",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnpULXZGMnQyYmt6NERVbkdyNU91cFE0dFp1c0RqM0NqT05EenR4UExSTkRpUnhtQnVqY0Y4NnFteFZEMjJoZ180Z2NYa2NsLUE2UVF2bnhkMks1QlVCYWh2RmNlVEF3Y0s3Q2xXemJ6UkR3ajVwMkp4d2F0SWdfYjFDSTJCV1duektZY3loOHFiOG9zOTh5RWtiMl84d2NhdGUzSlZPR09PZy1VSVplVHlR?oc=5",
+        "source": "citylimits.org",
+        "date": "May 11, 2026"
+      },
+      {
+        "title": "All-Cash Buyers Account for 60% of Home Sales in NYC in First Half of 2025",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2c2NGxBODAxYklGZ2c5RXZWSUZZN0s3SUdBZUlTNWpvVGtZODdrakQ1M0ZJVlpTaGdmY3NFVXhIVmFndUZ2Y0hwTFRCYmw3dlRveWFhcEJmNEFhM3VseFpyQm5XVHJ2ekRod0ZWcUJrVjBPcE91MVhKV1pFSmp2QkZkcmJfZw?oc=5",
+        "source": "Realtor.com",
+        "date": "Dec 02, 2025"
       },
       {
         "title": "The N.Y.C. Neighborhoods Where Home Prices Have Soared",
@@ -207,46 +225,28 @@
         "date": "Jul 03, 2025"
       },
       {
-        "title": "Bidding war frenzy and soaring prices hit Connecticut homes as NYC buyers flee amid fears of a Mamdani win",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVF5N2Zkd3dvNEVOVlk3YnBub2lqRXVXVW1lTzVsTzFEelFPUjk5ODBNeGJWTGh4M1BLUmdGanBUbUhuQkNOTmxXeUJ4a2p4TXhKWVBTUDFrMk9JT2l5T3BiamdWZlNJYVlLZ0FyVjBYOTZlUmsza1dHelRHNHlaSTdJTzFTc2oyX3FvZmZ0ZGNrVlhZU3FQUw?oc=5",
-        "source": "New York Post",
-        "date": "Oct 29, 2025"
-      },
-      {
-        "title": "The 15 Most Expensive Housing Markets in the US: Real Estate with the Highest Average Home Prices",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQem00UHUza0V6NTZoV245VkNDM05jbjVHM2Z4TTRySnl2NFhsRGY5U2haMUxKaHkyVE1DUmZNVWtNOUN1M0tFRHJ6Z0p3alYtdHZvUXZIdU9EWWstVTM3cVZYZFRjRlBIOVlCR2JLU3VSZEVpWms2RmRCQWpoUDg1YjRWMzI2UGFBd2hjUTMzYS1pYzhzZVdnRWpB?oc=5",
-        "source": "Kiplinger",
-        "date": "Aug 19, 2025"
-      },
-      {
-        "title": "Real estate prices are starting to rise — what this means for first-time home buyers in New York City",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDFyZlQ4dFRnTXQxdzZnVTAxLTlvRnBVU3hmSlROVTdEZ0NydTUydHJZdldsclVNeEgxVkp5WWp3OEFjWTI4Zm5pblFOUkxZS1dmWXFPd1BjN0puQ0ZLTWNKRVhrNjVJMXJ5YnVHcjRYREJnVGZQRkNUb0lGSkhRUGdiRHJFOHE3Z3JCVmQ1ZXFoZjJ6MktYR251bmhUbmw4dXI5MEZ3cWtQeGI3WERQS0ZkQndVLU02dC02ZVh0SWJBLXVI?oc=5",
-        "source": "amNewYork",
-        "date": "Sep 24, 2021"
-      },
-      {
-        "title": "‘It’s Never Our Time’: First-Time Home Buyers Face a Brutal Market (Published 2022)",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSmxfU2ItbThVOGtmbTA0RTZaUDFZa1VqX0laWV9zbFRnaTRfWGl3OVMwM0dFVmxGMWRlTUJYVlowc0NjU0dxM3N0d0diUEJPM0xlWDZmR3llazM5RF9fY19fSGQ1ZkNWLVY5YkU4d2pHVHZ4Z1VoTEhiSUtndUttUHBmeDc3Q1lnR1pv?oc=5",
-        "source": "The New York Times",
-        "date": "Nov 14, 2022"
-      },
-      {
-        "title": "Four Queens neighborhoods among NYC’s best for first-time homebuyers in 2021: Report",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3lqTElnWmN4ZndNYzBhZW9ZTTZJUGFVNzZrMU5ZOFFhUmxrOXZWTnVReUpJbTE1TXptVkg0MHJ2cW1nejhkdThqUFlBQ1ViVGd0WnpLcG5qRGJMSm9EZUdVLUlERVM3bGxFbVhiU0c2cWtlczktdmVhY1lmZVF3WFlSaFdZTGk1MDVfWGJTc3I?oc=5",
+        "title": "Six Queens neighborhoods among the fastest for home buyers to save for a 20% down payment in April 2026: report",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sc1BGdE9hbmZ2R2VhbEZKalNDdHFuckJUUm9MZDJXZWN0alFwaWoyYmIyRUpaUXFnei1RRXFSWENmeWlBcjYyWE1ja0F2MVlENlExTnA0Z3BlMjFLQWlSaExkZTd6dTdKQ3kzWmV5N0RVSzNwUGtz?oc=5",
         "source": "qns.com",
-        "date": "Oct 11, 2021"
+        "date": "May 14, 2026"
       },
       {
-        "title": "New York City Residents Really Are Headed Toward the Exits but Stay Close to Home",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzRZZmdSYnlxX2dSUjl3WUlPOXgteXhwQXI0eUtRc196N1ZpczZzSnNCUHVZdlQ5RGI2bG1idTlmUnlDZlk3TmU2d3czQjhDeDIyUTRUVGxuYVVKWGllSGtWLUtHTnlsVFNZTUlFUGtEb19Fa2RPNm4zV043Ul9XOFZ3emNNNTVSM2hzb1VKc2d1R2s?oc=5",
-        "source": "Realtor.com",
+        "title": "Homes are selling for way over ask in these 10 NYC neighborhoods — especially in 1 borough",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmtRemI2UGg4TEN0akpXZUZ6VHZiblFTeVA0OU9YV0kyU09qLV9mS0RBOFJMZkFvMjdQdjRRQml1SWx1emxlbUxJV3dLZDIxdXJwSU94OGg1VGduYkxMRktQc2YzWGNPQW9FMDlLMW9PY3RwRkppX1BiQXpMdlJwb1plcGZIS3ptd0UtamI3eDZMTmNmTExmNDQ1cUl6ckVw?oc=5",
+        "source": "New York Post",
+        "date": "Oct 16, 2025"
+      },
+      {
+        "title": "These NYC neighborhoods see homeowners stay put the longest — and the shortest: study",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM19EblIzZHdycGNBUWp5R1JJdEhfUVVnR3VsU2c3VDZqWDR0WGFlTnROanQxRFdzUEdybTZpeG96Qlhmb2lEWV9xT3NKNTQ3cEs4dHdNTU9idFFOa1pyS1RaeWxHUkhsNGo4UmtGemtydFhrY25hanZhdjE3bVpFb3Y1ZjNUcWlsS3pHRzktblkxZEZQbjNMWVhtNHA3dk9vQ3FPRQ?oc=5",
+        "source": "New York Post",
+        "date": "Dec 04, 2025"
+      },
+      {
+        "title": "Donald Trump’s childhood home in Queens lists for $2.3M",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSEZDS0pHODlLbTRCbVBUc2FONTVMdFduVFNlWThUWG5MbkR3VHZHMDAxOGNYN2U3b1B5OFZOcThTZmdIcVpENmQ0UWtFX1lldUVOdzZERl9CM3BiNkllOEV1N3dxUl9YbWxlTk0xZEcwTlNWTWhzNDhhTzhRNEdhODRCVmxseTU0YWpBMHZoeE1kSGxDTy1jWldad3pzWkxMZEE?oc=5",
+        "source": "New York Post",
         "date": "Nov 07, 2025"
-      },
-      {
-        "title": "September 2025 Hottest Housing Markets",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBERjJrMEkxVHRRNVdmYkZndUdNOUhiOWgzaTZuRWlPYWMzM1o3ODM0UjBidTk3TEVqNWRzM0JXX1ZlcFlxTTltckhtcnp3UkRyQW1VWk00UElpSjdPTTBxZW4zUTFQQU1jbmVmcFRJUXlkemxKSGNSVldUeV8?oc=5",
-        "source": "Realtor.com",
-        "date": "Oct 09, 2025"
       }
     ]
   },
@@ -266,10 +266,22 @@
         "date": "Sep 15, 2025"
       },
       {
+        "title": "Makarora Management LP Completes $2.1 Billion Acquisition of Plymouth Industrial REIT, Inc.",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcUtLNHgyU3l5c0JfaEtyLUpMU3ZUZ2l2cVZ0V0cybzMtbmhGOVFSQ3lxZHFRNl9vYnBJb1Zid29qUUhiNUs2ekNwVFpXNG16Mm5LRXJRem9TZFVXNXZjNEhtc0JMckZjZHExLW1uOUFVV00yNTA5ckVMX0hIZFp3N1ZHN2cydmRtYXJmQkFBajlJQkI4QXhSOHhmblJ1RF9YWUJvbVJMR25iRXBGU1dOQ3pNVlpEMU9tR2U5bEZGRHBVUk5LUzhV?oc=5",
+        "source": "Quiver Quantitative",
+        "date": "Jan 27, 2026"
+      },
+      {
         "title": "Empire State Realty Trust Continues Williamsburg Spree",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXFaZ19ZMTBZek5Xd1NKWmpZLW95Ry04RVRFdWlGWTVnU1VUNUVOWGY4d3R2dC1pZnNnUDJZby1obHlScUlmWFR3SlV6S2dCTmdxcW9WUHJTdWZEbTBqcVo0Y04tOTVDTEROaXdaSFZNbVBIQlpRNjdRc1hibXAxclNKakVkZG5tOWh1X053QmtsZUttXzYtWGNOd2gwXzNu?oc=5",
         "source": "The Real Deal",
         "date": "Apr 07, 2026"
+      },
+      {
+        "title": "2026 commercial real estate outlook",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGxXd0k5OHVzU0hSeGtXUTFuRVJTdUpIVnZsc3pxWjJRdUlmSVF0ZWJ2bUxsR2EtOWUyVjdqVW5Gc291TW8tTkxEanZDWlphbEdGcG9jYll1QUhwR0NJekRvMlFJMjJwbEtxTlFuMTItRGdWUE1aVFdHdXowclhxdkdvRWVKcURaU3Y1SHBOVzMwTG80d3lXdzhISGQ4TElGQWY0elVn?oc=5",
+        "source": "Deloitte",
+        "date": "Sep 29, 2025"
       },
       {
         "title": "The 2024 Lawdragon 500 Leading Global Real Estate Lawyers",
@@ -296,28 +308,22 @@
         "date": "Feb 03, 2025"
       },
       {
+        "title": "Commercial real estate deal-making slows again in November",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2JfbFd0ODBRa2ExbHF4TzRkZTNCcUh2d1FqelB0LVBuYk5SaUJRblhEVDJpcDRzeGl6Wm16aDJKRDd5REFRV01KWDBHeU4zeXo3bjB3eGY2WVhqcmFPeWJRSE9oMWQ4c3hzamFqVm44TkNYc2k1YmZfWV82ckd6Z3c0VmM2TjZVMEVNMlNWVdIBlAFBVV95cUxNc1dVT1hNcnd6dkllVmx2MlZZTzBvbGk0VFB2dkFoWkVuN0hTendvLXhnZWhOdUtXREdwUlh1cjRxaTZoRU1RUFB0aWZxT2xLUTB4akxYbGlwN3dWT2tpMmNZN0d1a1FFTGtKVXh4MTJLMmYyUllqTFZnV0NqbWFySVhTcjNEUjU3TlY2X2k3RWxXZER5?oc=5",
+        "source": "CNBC",
+        "date": "Jan 15, 2026"
+      },
+      {
         "title": "Ingka Investments makes investment on Fifth Avenue",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzhiOFV3d1NrLWFQWEZvQlNDV0p2MkFtbFVURWZuRm12M3I2MmpoLVRjVE01M0pPSl81Z3BUdHhibkFGSzlCR2lkSXJfeHZpU0FWM01Oa1BuQnNPaUZOLWdGemxuMTZBV1FGTm83eXhsYWROODRUal9KeFYtMEJLUEFSVTM1eVJZSmc?oc=5",
         "source": "Ingka Group",
         "date": "Jul 01, 2024"
       },
       {
-        "title": "JLL secures $174.5M full stack capitalization for new Gowanus development, 175 Third St.",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUGxmQUQ0M1RkeXBfOTRBeXlxZF9JenRsZGZxR2ZiX2ZoaFJtWFA0UkFxcDIyNWRfSU5jNGxDbmo0SWEzSVpVdExGTTl0OFI0VUpSdUJGMFZ1MENoYlpLbzNheVo2dk9LTDFiY0xRUE83ZWJ2ck9lSDZiZDJvTi1hWHhkMGk2aDZ1LVY1TXRLVExObU1EZjFJVHVDNWd3aU1xTWlESWEyQThrUWVLZEdMVnpn?oc=5",
+        "title": "JLL Capital Markets arranges $120M acquisition financing for 680 Madison Ave",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzFKaG5ub1I2eWp0bXhQaGpxc1Q0TktxQkRseWlFaTUwWVRJQ3pTNGZDWG9ENzZXakZOck5zVVVlT3lJNjROSGdJeUIzcG91clhiMDUwWHNFWlVaR1h6bGxkOGdFZ3ZPVWcxR1VHY3JlQ182d0V3UHdsYVRHRloxcllpQkYxcjNVNHB1RzQ2c1UxU1U?oc=5",
         "source": "JLL",
-        "date": "May 02, 2025"
-      },
-      {
-        "title": "Top 5 NYC Retail Building Sales—March 2024",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFB0ZkREMTVUQjFGYXVtN1FxbjZ4Z1BaaDJKblVPS2Z6bHRwamxBa0ZTRkViRUxxQWdUXzZMVFJhVUlGblk0ZDgzcGI5NnM4VVc0UElqVkJYNGVvYmtRdEFTSmZhRWF6Tzh0SzZUTjZsUmUxbEtTTG1NZFBWXzNWWld3ckJPQm5k?oc=5",
-        "source": "CommercialSearch",
-        "date": "Apr 30, 2024"
-      },
-      {
-        "title": "New York Real Estate Journal Names Doug Hoffmann Among 2024 Ones to Watch Rising Stars",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmhkWTZ1Z1pRRlBXTC1SQVdlaUtaV3gwMDJUWGRtbW9XRW9ZdFk1LXYzQ1lpeHZDYzlzWHVLRy05RHlibFRidHBEVW53SVlMWGhuUVYyNlJrTXB3aWRWREFGcUxxSzRNRDgyTWFneHlOdnBHSkxDejIzbUU0QUM5NVA0SDIxUXhwdk9uei1nYjVIRWpTQ0RMMmxFaktyNjQxc3lsaTNmMWhHY0NI?oc=5",
-        "source": "Hunton Andrews Kurth LLP",
-        "date": "Feb 27, 2024"
+        "date": "Jun 14, 2024"
       },
       {
         "title": "Town Lane Announces Acquisition of 2.7M Square Foot Infill Portfolio of Shallow Bay Industrial Real Estate in Raleigh-Durham from Corebridge Real Estate Investors and Equus Capital Partners",
@@ -326,10 +332,10 @@
         "date": "Jun 30, 2025"
       },
       {
-        "title": "Self-Storage Real Estate Acquisitions and Sales: July 2024",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXI0d0ZWVGxiRENQWl9JZjJGbjJudU14SGV0emFqWkFCOVVTb3Z0WmY1eUNsZkdOemd5cUtjRWRpNDJZZExvQUxqY2MxV2JqRHRzYVE4RDNkSnVFRk1lZF8tTW9WMUJ4V2ZEWEZaOEx6N0dJeTJhSnNmanV2eWUyb3RCR0tyY0pxdnl2eDFhTXVYckJsRWF2dGFyMkR2NjJCVzNzNjZodFpsNEhFTHZQaXpDQkY2bjAtazZuRzh1QTR4Zjk1?oc=5",
-        "source": "Inside Self-Storage",
-        "date": "Jul 03, 2024"
+        "title": "New York Real Estate Journal Names Doug Hoffmann Among 2024 Ones to Watch Rising Stars",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmhkWTZ1Z1pRRlBXTC1SQVdlaUtaV3gwMDJUWGRtbW9XRW9ZdFk1LXYzQ1lpeHZDYzlzWHVLRy05RHlibFRidHBEVW53SVlMWGhuUVYyNlJrTXB3aWRWREFGcUxxSzRNRDgyTWFneHlOdnBHSkxDejIzbUU0QUM5NVA0SDIxUXhwdk9uei1nYjVIRWpTQ0RMMmxFaktyNjQxc3lsaTNmMWhHY0NI?oc=5",
+        "source": "Hunton Andrews Kurth LLP",
+        "date": "Feb 27, 2024"
       },
       {
         "title": "Multifamily Market Outlook | Chase",
@@ -338,16 +344,22 @@
         "date": "Aug 21, 2025"
       },
       {
+        "title": "Self-Storage Real Estate Acquisitions and Sales: July 2024",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXI0d0ZWVGxiRENQWl9JZjJGbjJudU14SGV0emFqWkFCOVVTb3Z0WmY1eUNsZkdOemd5cUtjRWRpNDJZZExvQUxqY2MxV2JqRHRzYVE4RDNkSnVFRk1lZF8tTW9WMUJ4V2ZEWEZaOEx6N0dJeTJhSnNmanV2eWUyb3RCR0tyY0pxdnl2eDFhTXVYckJsRWF2dGFyMkR2NjJCVzNzNjZodFpsNEhFTHZQaXpDQkY2bjAtazZuRzh1QTR4Zjk1?oc=5",
+        "source": "Inside Self-Storage",
+        "date": "Jul 03, 2024"
+      },
+      {
+        "title": "AmTrustRE completes $211m acquisition of 260 Madison Ave.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lNjRhR2VOWHZ5LWlvRmVxSUtpTHM0SHBVNTZZaUpvVk5aX0FTdnQ3NzdrYnhqSGhybHNpdG5GYzVhS0pXSmVUeXJRUFFSSmFDUDh4MTJqMi1IQVFtb1hkb2VibmYyNlhuT2dGVERmeUhjMTktY214LUVVYU1aZw?oc=5",
+        "source": "New York Real Estate Journal",
+        "date": "Dec 12, 2025"
+      },
+      {
         "title": "American Exchange Group Affiliates Refinance 1375 Broadway",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcEFBUENlejlhTHZvWk85ejRfcTlzYlA5OVhpNlgwYlhqbXRqT2VFVnZvcUwtbVNWbHg3UXlvYmN0NXoxb1JzblJYR3ozRjBCWUlCU0p4aGxkbGt5UjBEZUFGcmItMk5XTUpTTVBVbkkyc3VKOE5vV0xISkZzOVZaTUpGaldsb2hLREVOOWVINnh5SFFfczQ5aGdyZ0d4dzZVc3dlemhB?oc=5",
         "source": "The Real Deal",
         "date": "Jan 27, 2026"
-      },
-      {
-        "title": "The 2025 Lawdragon 500 Leading Real Estate Lawyers",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTh5Ty1STWhaTVFEdTFvZTNMeVVRazlNcXZiMUQtLXNCcVRzVVRGVU1SWXl5U19JNEg4ejV4bVBUWnBtVWNMTEdocDV4LWdDZHJqc3luUDlEeFBYd2MzaXhTOUNkLUdGTUMtNG5NX19hYU1HSVVEUTl1cnF6X3MwY3J4a0dSQzV3NTlReUh3U2Vqck0zc2RacEVB?oc=5",
-        "source": "Lawdragon",
-        "date": "Aug 22, 2025"
       },
       {
         "title": "Canvas led joint venture acquires coveted Gramercy Park apartment property for $105M",
@@ -360,18 +372,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjVvTzR3M2RDNzlQX3pMRFhKSlFrdHd6QV93LWw0MGZVNkR3ZWZrVzlDV1JIQVFCb3g1cFFBbldhUmw1cHNQT3Z4djQySGZXbkRhRnlfVVRTSll6RGtFUGhmVDdRbkFJbUJyTlVGdllTOV9LNmp5U1U2cVRJVUZyUW5RM19pa3hhay1FdjBBTEM5TDlTUnY1NEduMDlFM1B2RkhDT2hMVXNtdw?oc=5",
         "source": "Multifamily Dive",
         "date": "May 07, 2024"
-      },
-      {
-        "title": "JLL Capital Markets arranges $120M acquisition financing for 680 Madison Ave",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzFKaG5ub1I2eWp0bXhQaGpxc1Q0TktxQkRseWlFaTUwWVRJQ3pTNGZDWG9ENzZXakZOck5zVVVlT3lJNjROSGdJeUIzcG91clhiMDUwWHNFWlVaR1h6bGxkOGdFZ3ZPVWcxR1VHY3JlQ182d0V3UHdsYVRHRloxcllpQkYxcjNVNHB1RzQ2c1UxU1U?oc=5",
-        "source": "JLL",
-        "date": "Jun 14, 2024"
-      },
-      {
-        "title": "Movcap makes apartment building acquisition on Upper West Side",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnpWQ0lkZmZTblNCOUYtSTFyMFlYNFBOVmJMWHJtdEJhbDNSa0gzMUZaNjVLRmR0OFFhM1lmTEVEWmFrT1pLVHlrc0tIdEM3Nl9GV2ZmcDR4ZTNIeUlCdzN2U2JmUkwyS21wV0hEc1B4U1hJeEt2a21Vc1g0b1NxcG1tMmc4bUVTN1Y2UUN3?oc=5",
-        "source": "JLL",
-        "date": "Feb 07, 2024"
       }
     ]
   },
@@ -383,12 +383,6 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMURWZFVBZ1FxR2FJTHdMTXJrcEhjbWdDMVpBN0JPdHJub3pZNEJoNVVmMllLZXFYWW5LY1lla1kxaWtXR05RNE9zaVdYZkxRSTNVYzVTUW9panV0dHJzRk1jLWFhODFQYmZLajZWUHJETkRHSVV2U18weFd3akNMZDZiMkNLZk94Vkc0MnYtTFNBcGxNY2lWelI1YUlYY0RLTUlEZzR1blhldERlck1SZmR0WXVtWmkzX0pBOFNB?oc=5",
         "source": "Forbes",
         "date": "Mar 13, 2026"
-      },
-      {
-        "title": "Top 5 NYC Multifamily Building Sales of 2025",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkdEOXJlbXlKUXFqZ1lodDlGWnptYTFEV0xJUkdERmEydnpSRk9CdWZabjNyY2hTd3Y1UWRxQ3JlY1pDQUUta0EwSDZRZUVuVjZobk5TYmVYLUswbHJwdWxaZmQyYVBWQ3FPUjNZbzNqbXp0MFYteHdjUWdVNlRlOFpiSWQ?oc=5",
-        "source": "Multifamily Housing News",
-        "date": "Jan 21, 2026"
       },
       {
         "title": "Japanese investors rush to buy NYC multifamily",
@@ -403,16 +397,10 @@
         "date": "May 26, 2026"
       },
       {
-        "title": "New York City’s Top Investment Sales of 2025",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkhCZU9DLXJOaDBKNzk2RUhNVXpZYnhXV0Z5UXdpbGZ2SHhGc2dwUHl3STNob3hGYUREcFdlV21qejNQZE9VWFlGLWZvXzJFS2YwcFhCRk51Y0trLVlnMDE0SzNobmxLUUF3czk3TFFRSHlVT2hSTU03Z2Zic1A3b3pWekY0QQ?oc=5",
+        "title": "New York City’s Multifamily Market Remains a Favorite of Foreign Investors",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbVVGOVZqWGlGYkIxOVVWUjhuLThWU0lsaWFEQWtoODgxdjRldWRCakswdm9ET0JPZUNMbGhTWTd6OVV2aFdvNXFsZE5xWE45QXR2ajVlR3A5Q3BwekRYblZKMjljdEoyU1NGWG5RUkdaTlN1RWVmUXp4bVJob1EzRXRYNzlEazNJdEQ4?oc=5",
         "source": "Commercial Observer",
-        "date": "Dec 10, 2025"
-      },
-      {
-        "title": "ICON Real Estate Advisors Arranges $19.35 Million Sale of Long Branch Multifamily and Retail Assets",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcUVQaTFLQzBJZkNWcHIyaFIzRkRSTlZpU0dyTThSMGZNaEZwNjAtck5BRHFGWkt4a1RkSXd4THdZTUl4bE5YYUE5NE1teVdYRzFmUlBIMm5fazZOaXJtOEJDQUR6SlcxS1dOTllOc1RYaHFlSUpaOXJpWXJyRkZGbkJob2pCWW96d3lZcEpuX1A3UV9mNWc0d1RwUjVfZ3lwcVJ1TzBOMlFnVFZvTmdGa1EtVFBSamRtcDB1Z0NzbFFRTFY0bFVkYU45ZWVfb1pxVzQw?oc=5",
-        "source": "citybiz",
-        "date": "May 27, 2026"
+        "date": "Dec 09, 2025"
       },
       {
         "title": "Japanese investor buys flagship Birkenstock SoHo store for $18.5M",
@@ -451,10 +439,16 @@
         "date": "May 02, 2026"
       },
       {
-        "title": "New York City’s Multifamily Market Remains a Favorite of Foreign Investors",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbVVGOVZqWGlGYkIxOVVWUjhuLThWU0lsaWFEQWtoODgxdjRldWRCakswdm9ET0JPZUNMbGhTWTd6OVV2aFdvNXFsZE5xWE45QXR2ajVlR3A5Q3BwekRYblZKMjljdEoyU1NGWG5RUkdaTlN1RWVmUXp4bVJob1EzRXRYNzlEazNJdEQ4?oc=5",
-        "source": "Commercial Observer",
-        "date": "Dec 09, 2025"
+        "title": "NYC Investors Hunt for Distressed Deals",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMksxSVNoZlQtSmxLbGJqdEVRWlBqNzdQUHBqRVo4RHIwcmlLRlEzSExNbFVYVHU3UmFTMTg5X1FpVlNzMU9XM1ZHcVBpRW8yUG5KeV8yNmduZ0pHNnRNeXhuR25vdnMtZi1pYTg4cnNQT253WXQ1N0M5Z2pHODN2d0gxc3JId0dS?oc=5",
+        "source": "Multifamily & Affordable Housing Business",
+        "date": "Jan 15, 2024"
+      },
+      {
+        "title": "New York Multifamily Market Outlook | Chase",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa3l6Qmtoc0ktSllKa2hjZDl3TmdYTVVwX3ZOYzNjYnkwRk9WX0ZkNDZKejQwOWhIYnVSSXI5NFZ2N0s0VlB4VS1tZ21BTE56eFhnY0w3OEJMMEdrWGNyTkpkZ3dMTGNMU2hIS0hqN3Rtc0pxRWU1SWd2SC04ZEJSZ2ZMcWNFZUVXaTBLMXZXUF81RU9vT1BIR1l4NmUyOVdBemc0QlNYYnc?oc=5",
+        "source": "J.P. Morgan",
+        "date": "Jun 17, 2024"
       },
       {
         "title": "Carlyle Group and Z+G Property Group acquire newly constructed Gowanus multi-housing asset for $105M",
@@ -463,22 +457,16 @@
         "date": "Jan 05, 2026"
       },
       {
-        "title": "Upper West Side rental building trades for $66M",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2x0X0N1aGlLeGNFUU12cVZ1ck9YNTg0SnZPUEJrMkp2aFVDLWFldExvVmZMZmhkUW9EQXMyTnhmUWJMNXhpYlJhYkh3WENJU3pCSG43N2J3Uk1jV2dqWWVzM2h0WDVuOVlmeC1YMG9POEZXXzkxM2hKUHFld0UtTmdpV1hGUHZGZFNSelNPSXJmSkJxRWNPVGR4YXhBOGNJ?oc=5",
-        "source": "Crain's New York",
-        "date": "Sep 09, 2025"
-      },
-      {
         "title": "NYC’s top deals: Trio of Downtown Manhattan apartment buildings sell for $49M",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJZWWN2bmdjZXVQNWFpMkh3MHNWYU84SzV5UW9tVGpHWmI2UEFUVWVPdlA4MHZzQzl6c3ZPOUFZWXBBR2VpSnFaaDBYWWw0R29rOEpGTV9Ld21VczRHTXFXUTZCVHJsSGptWEJxWEZaY0dHVnI3a1A3M3AzNEVBWHgxd0xGYTh0WUxxWWIxY3Zfc0FEbk1tczJ3?oc=5",
         "source": "The Real Deal",
         "date": "Feb 24, 2026"
       },
       {
-        "title": "Top 5 NYC Multifamily Building Sales—May 2025",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc05JOVgxVVdlLXg5bHI4VUdPZVJYcHJOVWFLWTd2Uk1PNnpvQnlEMmpLVDhoeF9wVHFOcE1GdjF0TlBuckdJN3hUVmhMRjNib3VVbWlpNHlpNW10MEhlajk4VXlQOE1IbVR2N3hMUWVOSHExeFhoaTBwU2pmWFhOc2lTYWJyUQ?oc=5",
-        "source": "Multifamily Housing News",
-        "date": "Jun 26, 2025"
+        "title": "Multifamily buildings aren’t the surefire investment they used to be",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0NwU0FZMjIwMUF1X2NhYVgteHFuMVlWMThqX1Ixemh3VlRGYWFEenhpNmZaazljajVlOXRyRVFIS0piYkJlMHpwbzNlMFRJVjNrU2tZVGx2XzdaMmxBa1lmNTdRcDR2VlRBWnQ1UjNSV1FJRy1POGRnVndxMjdBczJlMGRibC16c2dzdy1VSzFKUWJOUnhqY1Q1VHNNcU9NazRJWGtpZDM0MEI5THpiT3Y5bWNraG8?oc=5",
+        "source": "Crain's New York",
+        "date": "May 05, 2025"
       },
       {
         "title": "COPA panic: Brokers, owners sound alarm on City Council bill",
@@ -487,10 +475,22 @@
         "date": "Nov 24, 2025"
       },
       {
+        "title": "Inside The Surge: Why Free Market Multifamily Is Winning In NYC",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjhPdDdxeENyd09zaDdZNVpWbk8yQ0J3Xy04NDhla00xTkFFSVYta1Bvb0FvX3R1SEQ1VEJGUWlvRjRTaTM1blpaZ2JzZzktOTh3MDR2NV9SWHVJczJWbGlMWlRORTE0N2ZBVE1zNV8td2FZZE1NLW1NMkpnRno1cWRvT3JTRHRrWVZvY1BnQVlaRTFsOTdBXzJyeVVIak1MNTVfSl9TQ2g1bVBnU3RiSHktTWxPRjkyY0l3aFVPN1gyaGt4?oc=5",
+        "source": "Forbes",
+        "date": "Apr 25, 2025"
+      },
+      {
         "title": "Long Island investor buys Soho multifamily from Centurion for $58M",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTJHbDVzRkdYTjcwSU40aS1PWkQyNUdWaGFXd3dzUnBrYWpZU3plbnZEajAyT2tObUJDcHVsUFR1Z2JfTXF2UnNHdGNycTVxUzR0eHpUMzZZbWlheXVpR3hWZUEtUnBSbldER0hGX0drU2xBNHZncVZTa0pvTnVsYzNSWDZKbEoxMTV1MllXUHJ6N09OTUhLYmNOR25ralc0REE?oc=5",
         "source": "The Real Deal",
         "date": "Mar 16, 2026"
+      },
+      {
+        "title": "How Low Can It Go? Finding Value In New York City Apartment Building Sales",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2NCZ0hjNmhDVS1BWVRuUjI0dUJYZVNET1JsZzE0Q3QtYkdfVkR6bk9aT0NmMHZxZVVlcXpVQkk4aGc1M3o0NmlrcTZJM0NIV3c4dnRYbVFfQk1oV201WkJLR0lISjZvbUtPWDBFTmgyQXNRU1dlOTZtRUdOX0JDNGt6SlZDYndjaFV5ZGczOUxkdU5CcXlldTRmYm5vLWFCUkJqb25iRVZqTnM3LUY1V05pRjAycG02UEFXYW1RR1VCWWRaRnc?oc=5",
+        "source": "Forbes",
+        "date": "Feb 06, 2024"
       },
       {
         "title": "Carmel Partners buys piece of $500M UWS apartment portfolio",
@@ -516,16 +516,16 @@
         "date": "Jan 13, 2026"
       },
       {
+        "title": "New-Construction Insights: Builders Cut Asking Prices as Detached Homes Deliver Value",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ieGt4UlhNSUZSdl92QThTcF9Dd2ZNQXo4Sm1MYlJwb1JIMWQ2RTBsRHRKeVFWMGR3Tk1qV3FxTXd4Y3h6ODNIU0ZKWmlYb2xwX3R1bnlSQllTRFF0ZGZEOWs1YXlzWGdDV0JyNktTVXlNTlQ0?oc=5",
+        "source": "Realtor.com",
+        "date": "Feb 12, 2026"
+      },
+      {
         "title": "Check out the price tag on the most expensive house to sell in N.J. in 3 years",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjBRcTFiY1k5Mmt5LTdCMDZnWFh5aEVLZ040djAwZzBlVnpYdDB4X3NJQ3lJdU9HSFB0c1VYX2dVT3MwamIwWk91cUUzS2ZQM0xjUUlkRDZRS3BPVmQ3REhaYTlfUlhOdGdJMl9FWEx2WWJmOVNUdk1lRGZUbU13WVRtdXotZHFHejdmd0VnSnFjQUVLV0tYeDN1MzhSV2hmaGNtdmtUamY1UUMyWnhfQ0s3NDhQMm9KY1ktMV80SFo1Z9IB1gFBVV95cUxQYWNaS2pmS2hEVkdEUVVybHpiY3RKTmdnRldYeVpZTGtsN0ZTY2dvazA0eFZJMDdmQk9HcURUdmNPaE1DcjlSajMxdnZwY3dRVDY2c01VaFJpTTNnSXlDYWpCTTJ6M3dvZ1FURTZ1TnpFNkNTTlJ1d1JBVFFpNnlfRmNmNnQxcXp3QlRsXzQzQVZUb1dzQmlRSndCVVNpRzdTVTl6UkFKVXVxX21zVEZELTc1N1NuWTZpYVNaX2JzN0stWGVNekliajN5eUlrVmVlOXk0MmNn?oc=5",
         "source": "NJ.com",
         "date": "Sep 10, 2025"
-      },
-      {
-        "title": "Realtor.com 2026 Housing Forecast",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DajY0UXhYTDZmZG9aWjNQRDljb3Mzbld5WFZxM290X3NWNjRDTUpDd0pzbHkxUW95bWxDYVlkWGl6VW5aaUZGdXR5cDN0UmFzSGhVNUxJVnpYZEhlLWNrVHd3ZXpGLWFCUFdybHdqa0Vndw?oc=5",
-        "source": "Realtor.com",
-        "date": "Dec 02, 2025"
       },
       {
         "title": "Exclusive | NYC-area Mafia mansions struggle to sell — for 1 reason you may not suspect",
@@ -558,16 +558,22 @@
         "date": "Mar 28, 2024"
       },
       {
-        "title": "Cash Is King: Trends in All-Cash Home Sales",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jdHk3ZnhyLVotYVU5aERVS2hsUGlFNVY0dE00ODlnRndJb3JlazQwM2ZxenNRZktEa05LY1RiVnVaZDMzbHJMU0IzUzhRSmtMQnNzcFBmZzF0NVlyMVFsak12bG9jcTlkVXpGQnp3Zw?oc=5",
+        "title": "Realtor.com 2026 Housing Forecast",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DajY0UXhYTDZmZG9aWjNQRDljb3Mzbld5WFZxM290X3NWNjRDTUpDd0pzbHkxUW95bWxDYVlkWGl6VW5aaUZGdXR5cDN0UmFzSGhVNUxJVnpYZEhlLWNrVHd3ZXpGLWFCUFdybHdqa0Vndw?oc=5",
         "source": "Realtor.com",
-        "date": "Oct 07, 2025"
+        "date": "Dec 02, 2025"
       },
       {
         "title": "This multi-family N.J. home had 35 offers and sold for $126K over asking",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNm1qT0xzczRRZXFDek43UkIxdlo5aEdjLU9lOTM2cFpNWkMzaHdtekpsUmVLdHR2TDJKOHRoTHVvQUc3NWViX2dtdlBBQ1l2bnFQcjNWZ2F2b052ejNqSEx5UHlkWm40cE14WUVTSDZHRUdwQ2xZLUJLY3o2RlNyNkVvenNyOEF0c184Rk85a3VZbkc0Zm9OQVd5MnlKMjFCZ00ycGdkSmZVcDJQQ3RfRXhhLUpfdU9Q0gHMAUFVX3lxTE5aQU14Z0RCSzJNcWpremtnRDlEdE95ajFlcmpsWDNqSWR3c0JCMWNPMVNTR05DZVZaMDhNOExmV3o2UnAzNWpnVzFtMEZ1aEhLQzlSUFl2ZWQ1NktMQzJvQzJDU2NvRWJGdHhvU1JSeVp6bFo5Z1dHU2k4UjM1UXF2NFZqTjRmYlhMeGhkcXBlSlRVUFNDMmU1aXBub1p2eGg1N3paWFJjS3ZDX2s0U19qYmxiX1pDWlRGai1pN3JUOUlEb3ZEQTFKNlJobQ?oc=5",
         "source": "NJ.com",
         "date": "Jul 31, 2024"
+      },
+      {
+        "title": "Cash Is King: Trends in All-Cash Home Sales",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jdHk3ZnhyLVotYVU5aERVS2hsUGlFNVY0dE00ODlnRndJb3JlazQwM2ZxenNRZktEa05LY1RiVnVaZDMzbHJMU0IzUzhRSmtMQnNzcFBmZzF0NVlyMVFsak12bG9jcTlkVXpGQnp3Zw?oc=5",
+        "source": "Realtor.com",
+        "date": "Oct 07, 2025"
       },
       {
         "title": "The Hottest ZIP Codes of 2025",
@@ -598,12 +604,6 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ESXZGQTNjZExmMGJ5bF9wdUVHaDFnemhFQkdjbE1xMnM3YjFSZXE4bDJOX3hjQkNyT2ZIR3ZTYVpqS1RQdXZOamNKT1lEY0RtdFBrSXFuaTVkLUhEcm8yLXVsM0sxZUU?oc=5",
         "source": "Realtor.com",
         "date": "Mar 12, 2025"
-      },
-      {
-        "title": "October 2024 Monthly Housing Market Trends Report",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVcHVuSU5pM1Y3RlJHaEtlYklXMlJZQ0JLWlo2b3A4RHhpSE42MHpEdVpHZ3VMVU9qT3B6TG16VlVXYkF1azAya3FiUVdsbUZ0Z2QwZ3oyaEdmbzVJdHZLag?oc=5",
-        "source": "Realtor.com",
-        "date": "Oct 31, 2024"
       },
       {
         "title": "July 2025 Monthly Housing Market Trends Report",
@@ -683,16 +683,16 @@
         "date": "Jun 03, 2025"
       },
       {
-        "title": "Consumer Alert: How to make sure your homeowner’s insurance fully pays your claim",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjVueFd3aENvOVM5OURFcmRBanpxTi12d0RFYkJrMkRHekkxUDY3QzBsOW9nYzcyTXc3a1MxcW5lcmxQbjFYTnJ3VEdHMWFub3FFRGE2aU4tR3l0LUI3VmxydVp2ZUJ2eDNWcTYxbTEtNkNuZzd1Zll6MTBkNFNublNRSEE5ZC1zb2lWZWRXT3VuM2o3SnJUd0NFdXJsTm5Da3BvRThjcS13azlfck5Z?oc=5",
-        "source": "WHEC.com",
-        "date": "Jul 18, 2024"
-      },
-      {
         "title": "Angry Parents Say Scaffold Has Stood At UWS School For 11 Years",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekg1am0wSEFsQnJ1bW1hcWxOTktHNENGRmpqMy03SGRYeWpxUlNtMDhJVlpzUHBFQjZPVE9ZZWZHMWpvSENIU21JblNyNjRGSG5KR3IwVXpFeDdWNnZFNkZ6akNIdkhaSHNCcUY3RHJJclpSbC00TnVEMkdYZTRfQUZOdjlPN2xGb0hvM0JpckpzdmVkU0s4N1FkOGh2MHNWbVAzSVJn?oc=5",
         "source": "Patch",
         "date": "Nov 09, 2021"
+      },
+      {
+        "title": "Consumer Alert: How to make sure your homeowner’s insurance fully pays your claim",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjVueFd3aENvOVM5OURFcmRBanpxTi12d0RFYkJrMkRHekkxUDY3QzBsOW9nYzcyTXc3a1MxcW5lcmxQbjFYTnJ3VEdHMWFub3FFRGE2aU4tR3l0LUI3VmxydVp2ZUJ2eDNWcTYxbTEtNkNuZzd1Zll6MTBkNFNublNRSEE5ZC1zb2lWZWRXT3VuM2o3SnJUd0NFdXJsTm5Da3BvRThjcS13azlfck5Z?oc=5",
+        "source": "WHEC.com",
+        "date": "Jul 18, 2024"
       },
       {
         "title": "The history behind NYC’s water towers",
@@ -748,8 +748,8 @@
         "date": "Jun 24, 2026"
       },
       {
-        "title": "Elon Musk Wanted OpenAI to Go Commercial, Company President Says",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnpxbHZBZ0p3TEZ3MmMtdnZaMk1XRVNlSmRMal9SeEJKS1Rubi0zLWpkSDh1RkRVdHpqMjZoYnlqaHVmN29LX3hPVDkwZHczdDNxVW42a3hIU1J3ZnNVR0JfXy1NakRFSkU1a1E5ekFpdGxTeDhiamp0Mk5sU3c2V1RmM2VLdUU4eVNVbXlCM2Y?oc=5",
+        "title": "A 22,000-Home Community Is Being Built in a 5,000-Person Town",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFplNTZtM1VkTHlxdTY1cVVfeUhYdUJud2JrLVZkWXNlaE1UREd3M2gtVnZZTEllU2c3MXQxWmVDVmI2Q2c2aHMwTC1zbm5tZW90ckFJR1RORVUtakM2UmFuWk9zYWVyMlhXaGQzNUs1SWM1SzNYZmVpYUJLUE5kZ3RRNFpKN2pRak5Bd3FtU29KSnRxczJFakdzWjFZZjJDdXc?oc=5",
         "source": "The New York Times",
         "date": "May 05, 2026"
       },
@@ -760,22 +760,40 @@
         "date": "Mar 17, 2026"
       },
       {
+        "title": "Rachel Brosnahan Showcases a Marvelous Manhattan Makeover",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYlFkdXZnVDNTSTdjTm5LenQ4N3BHNTRyQ0tMSEF1VzAzU1JXNks5SHNqeHNJYnhQM3I0UFNZUGhKVzJmel9rN3c3Q1QzNlFxY29xZi1BOFV5UWtSMGRRNnd3WDcyLTFNcU5BNjNUMEVmQUhuWVZPMTlFUlpTRWxVNFgyaHlYTTVWa3g0RFhITFpzUW5UUVRPWDV2ZWFVQWUtMXB2Mg?oc=5",
+        "source": "Architectural Digest",
+        "date": "Mar 16, 2026"
+      },
+      {
         "title": "Blake Lively and Ryan Reynolds are $2M deep in contractor debt and their ‘dream house’ is still not done",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGlUUDBScGVpdTFxcThBeWl6NHktRU9KZmdsOGNxWEJGM3RjSF9lV0JZMlpkUXBvUHpJLU1SRnFmN2t1T2c1Wk9uMXJscDNXeXlaVXQ3bUFEbW1VNENucHNFUHl3aUhZWUZ0SFB5MXZxZ0JkTmxBZ3E5bTB6U0ptQm0zVFNkOG82Ym15a0pnRzZLNlFFTUNnci1DNk44Snd1MHFRb04tQQ?oc=5",
         "source": "New York Post",
         "date": "May 21, 2026"
       },
       {
-        "title": "Go Inside Kate Upton and Justin Verlander's Prismatic New York City Penthouse",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdk1rSDRldFhFOXE1NW82eVlveHh0NXpCU3dnMk9GSmFQTE5FSEFyOExMa0lDelpPMXBXMldkWDF4LWNHU29qZWZjSTk0NHFoQkNsZk5NRVpQYW90NnVLc3kzMnpTUGsxOTUwQU5URUlCd3VveENjODBmYlAxMmp5aERaZ0VBZTFsVUoxUTZ0Tzc2LUtsa0kyT3hNSEVRV2E1T2lsVlRwNTFVR25kbXB2Wk9zNHh1UC0xbGVkSDhtU3VzYzI3TmNGYw?oc=5",
-        "source": "Architectural Digest",
-        "date": "Mar 13, 2026"
+        "title": "Elon Musk Wanted OpenAI to Go Commercial, Company President Says",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnpxbHZBZ0p3TEZ3MmMtdnZaMk1XRVNlSmRMal9SeEJKS1Rubi0zLWpkSDh1RkRVdHpqMjZoYnlqaHVmN29LX3hPVDkwZHczdDNxVW42a3hIU1J3ZnNVR0JfXy1NakRFSkU1a1E5ekFpdGxTeDhiamp0Mk5sU3c2V1RmM2VLdUU4eVNVbXlCM2Y?oc=5",
+        "source": "The New York Times",
+        "date": "May 05, 2026"
       },
       {
-        "title": "Toxic Explosion Feared at California Chemical Plant",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQUFBTGZlWHhUVUxBODNxZmM3NjdpUTNvbE94NlBHS1h1dUhNU3RKT2JjOThOdVJWUlJDYWFyaWpvLXkxQWVJZzRhNk85STlrLWlieUc5SFNocTVQanFwbTlGR01sVFVNMFBtc29jWnBmaHFSY3NVMDlXaUVHYmhKVVZaTjV2X0hu?oc=5",
-        "source": "The New York Times",
-        "date": "May 22, 2026"
+        "title": "Athena Calderone Takes Manhattan",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQU1iQ1Iya1gya3FBLVVnNWs2YnR1RTlVUmsyd0F6YmR6ZjdBX2ozS3VneU9oUzItOW1JcEFybEt4dnlRYlRUNTZOSUFFX2NMbWlFdHFfQ2tmWVZtR2pqZHI4Y1VEV1RMLUZfYS1yeTJvWU0xbTB5WnIxZndFbHhSd2Fn?oc=5",
+        "source": "Architectural Digest",
+        "date": "Mar 10, 2026"
+      },
+      {
+        "title": "The Best Home-Cleaning Services in New York",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FZmNfRFJuVFJWbUV2U3dpdENlcDdSeVRmNUlZVURGWi1kWl9udkZKdXBpQjNzZ0c4QkI5Z0ZlMHI1bGxlR2J4UlpUTnplSWlWUEpWMmZzMkkyaGFCdC1uMjgxQjRiNmhkaGl5NmhmLWtHRldnU1E?oc=5",
+        "source": "Curbed",
+        "date": "Dec 30, 2025"
+      },
+      {
+        "title": "Where To Buy Affordable Art Online: 33 Stores for Cool Artwork, Prints, & More",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMnE1TDN2T3J2QXVlMEdYSm01LUFnN3k5WjdXWHJfakpscUlCY1pxd0xCU3lFYXlORzUtVjVQVEpXRnFROHEzS2ZBWkRGcEppY1R4dDFFM2dXNXpaRWhVTXNHelJhRXBsX0dEUms3Rko?oc=5",
+        "source": "Architectural Digest",
+        "date": "Jan 14, 2026"
       },
       {
         "title": "Spotlight: New York City’s Office Market",
@@ -784,40 +802,10 @@
         "date": "May 14, 2024"
       },
       {
-        "title": "The 2024 Construction Power 100",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHRMbHk3Tlk3MXBxMEZDYmVsZXlrYklCMnFKcWowLW5TTnFpZ3l5SlJRYTRlYWMtcktXQWp5bHN4UW1LR0Z2SnNoYTVoSHc1d0x5ZTFUNmNqSTEzcFhPSXlSbEd6LTZOZUxzbjR3N253bHJKbE1qSnNwMW03ekxaTU5ndVdUejNPSE5TRzNabw?oc=5",
-        "source": "City & State New York",
-        "date": "Apr 01, 2024"
-      },
-      {
-        "title": "The 10 Biggest Painting Contractors in the U.S. in 2023",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsOWdTR1J2dXFFNlg5Q2ViN3RuUFRfMkxmT1R4YVpoVjhiZEg0N0g2anlXOTBwbzAzX2FFVzBMR3FTVnc0Zld3TS00V1EzRlJkT2RMNGtTY2pEQk5BLTJtajJHenptOFduRjJR?oc=5",
-        "source": "Levelset",
-        "date": "Sep 07, 2022"
-      },
-      {
-        "title": "What's the best shade of white to paint your NYC apartment if you're trying to sell?",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3JlaXhBb0ZxSEkzNTJZSU00a2UxNTdBbjZvNWw4V1JqenpDM0Rfck04RnlRLUtMR2pCeHQ4ZDZHbmZwdDF5cVNtaWR6UFB2TktudTZ4ZVBJcXV6VU5ZTTZxSzlhNk9uZm5mTng5OVI2eHUwbWJrSVlEbHNBb1padVV2MA?oc=5",
-        "source": "Brick Underground",
-        "date": "Oct 28, 2025"
-      },
-      {
-        "title": "The Best Housepainters in New York",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6bUtaUFhZVENYaWxOZDAzMldBbnZHV0J6RnUtMlhwbE94SzNzczR1TTNma0tjYU15ZWlpTDhXQXZPM0N3WTZ3VzlFZGM2QnVmNjZXb2kyYmp5WVpNSXdvNE91Mmw0dnFKazdj?oc=5",
-        "source": "Curbed",
-        "date": "Apr 01, 2021"
-      },
-      {
-        "title": "Journalists Stumble Across Real Estate Listing With a Photo of a Nazi-Looted Painting Hanging Above the Couch",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcHJVX253ZkxUMzF5bXR6U1ZJSWxoNnZ5QmJrZV9vUndOODFaNjJtdnUyLUp3S1hzMGF4dExTcVY2UFhiZ04wWTY5TUxKVGFMc0lYb201ZjNBN0REQmRQTl92UjJEalZBcG1CZzBueWVzdENVWmxPWnZzVDlWVGY1Wm9zaGN3UmVwY3dHZUJpMjdoN3VicmVmVzhmYXVfbHFHRm5CTkJiOFczc1lhTWdnMko4bTByQ0pnbVFYb0F0a0FhbjFDSHo4WU9xdzJHVFNlVjJJaVI2SVZueDlDdmxobGFnUVQzLUlsSWlzN2V5RmxLa05l?oc=5",
-        "source": "Smithsonian Magazine",
-        "date": "Sep 04, 2025"
-      },
-      {
-        "title": "The Paint Colors That Experts Predict You’ll Be Seeing Everywhere in 2026",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHZWdjlobEhWRUlsRXRmX2I2MlJqQ1o1cWVOTFZsZVZPaVBfcjl0R0daZ0N3aDBxMHdQdmN6S0E3MUttVFRFRnEzbEVPdGNhdDhYX3p2dGFqZ3BQWmxTWkJIV2xSUkF2bC15ZERPU0ZlTTU0N09PeTk2M3doUmZ2VXhTcXpTai1fTUpGcUQ2c2lyUlpBRk9randtSWw2dkdpY1hxNW00SG1wblNYVThXLV9ZaThEN2RsaFN3bnRDOFA0Y2Uw?oc=5",
-        "source": "Architectural Digest",
-        "date": "Dec 04, 2025"
+        "title": "License to Work 3",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rOGY5NDRMNGI5RGxsTEVmY3V4RGlQUV9udDZjZkVCMHhXWk16QjFHZlM3OVQwNl83UE9RMUltci1RZDZ3aTNIWU1XSHExZHl1eUE?oc=5",
+        "source": "The Institute for Justice",
+        "date": "Nov 29, 2022"
       },
       {
         "title": "That Artsy Mural on a Brooklyn Building? It’s a Whisky Ad.",
@@ -826,40 +814,52 @@
         "date": "Sep 22, 2025"
       },
       {
-        "title": "Painting looted by Nazis during WWII found 80 years later —after being spotted in real estate listing",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdlY4X3hvRm1RSkNOek1LTDJiX3kyZzRUOU4zNy02OGtIczBqQnlabHBtLWFUc213SEZOem9OanhuQ19GQXRuNGdlNDl5SGUyLUhkWWh0Smc1cUd3SmFFQU5UbU9DeE83YlFtbmVHa2Y0TjdxcXI5TG5wNk1LZHdLbHN2ZWFHcTJqVTNWaFZUYXNNZjR4bDRaUEZWWjlzX3NrV095cHZWUHRQNENMNDM1TW9NSkh0WC04Nm5YeHhmcEttZ3RhTGhjRDF3?oc=5",
-        "source": "New York Post",
-        "date": "Aug 26, 2025"
+        "title": "The Best Housepainters in New York",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6bUtaUFhZVENYaWxOZDAzMldBbnZHV0J6RnUtMlhwbE94SzNzczR1TTNma0tjYU15ZWlpTDhXQXZPM0N3WTZ3VzlFZGM2QnVmNjZXb2kyYmp5WVpNSXdvNE91Mmw0dnFKazdj?oc=5",
+        "source": "Curbed",
+        "date": "Apr 01, 2021"
       },
       {
-        "title": "Tour Chef Bobby Flay’s Refreshed Tribeca Apartment, Where Statement-Making Marble Steals the Show",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1c4T3N3V1VwYkJuMEs0UDJYUGZXRXFXYkVWRU5HZjk0MFNvSVFWMG1Dc1hUX0NucnduR2F0aTlIZXBCU2ZNZ0lFREpFR1I5NE1Sd2wtTExDLTZuWkpsbko4NWFKQzhRVnc5VllvSHg0T1NvQ0cxWFdLTkxHWnRsLTNfck5BeWVHZ0RTNGd3?oc=5",
+        "title": "City Launches Lead Paint Ad Campaign to Educate Landlords",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXJwbDV6QWZPVWsxTFo2Q3J3OF9PT1ZBTW9XMTJXb19DWHdwdkNiN2NHNTVKRHUyX2JtTDYzM3BELUpKa2V5b3Z4MlEzTkVHOTRyYjdjQ2Y0U3JDU1F1ZElOc1ZFMkk4RGx4akUxRFZUVExqU2ZIay1Yd05lYjNLN1Rkb1lZOUpvenhoUERQbXlaMXdBME42d1dJOA?oc=5",
+        "source": "NYC.gov",
+        "date": "Nov 04, 2019"
+      },
+      {
+        "title": "63 Chicago Interior Designers to Know From the AD PRO Directory",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFZrMU1zdE13QXB0dEZLNEtzZllWb0VrNjljQ1otSlhKd2hmZnM5QTdCbjJrSTNPbXhVSWJnVEVPekxtZmEta3NqNVhNeDI5VXFxWG1IbVhGaHRWaENOeTIwMFVSM1RnWmZwWXp2aHlhUEFWN1dzeWJFUnJWOHV2N3BNSFNxazNRcUtOaWo0OXhodGk5dTl2N0ZzNWtVcHUxN3Nz?oc=5",
         "source": "Architectural Digest",
-        "date": "Sep 02, 2025"
+        "date": "Dec 02, 2025"
       },
       {
-        "title": "Paint, Pottery and Profitable Leases: Experiential Retail That Works",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQW8zM0RmWFNSbWFSbGhqYi1xQ1g2dUNWNkdSN29mZGNXcjRvX0RiN0tKcVd1VGpmNEtkWDl2dDJLMjNkeld3ME9SOVFCLWRaRVFMZlA2WGxOSTBqUFFfdXN5dXlneWtkbjVYUmpjRGNSM1puQi03OEpYd2J6YnRJSkhRdEhIdkFPZzVZ?oc=5",
+        "title": "The No-Bid Contract That Is Turning Washington’s Reflecting Pool Blue",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdndpZV9scUhrUGVqLWV5X0dVZWJMd3pnSDM0RGdia19reTQzTUdxU2RJRlFkbGNOakpNQWE3UDdzT204X0NDWnJyck52N3c0NDRERXVVX24xNDgweHM5TWI0Zlh6VzRIZzZIQnZOY2puZUpsTzAyNkVJNUs2eFJRSWpoOHU5bFdXV0E?oc=5",
         "source": "The New York Times",
-        "date": "Aug 18, 2025"
+        "date": "May 11, 2026"
       },
       {
-        "title": "61 New York Architects on the AD PRO Directory You Need to Know",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUtJRnJYbXR1c0VCQzlINlVEcnZhZlF3RVpzdVhaV1daX212Ny1PLW9yM2N6LUNpWUNlRzg1Rnk1bjJqcE42MHFUcm1pVXVwT01Ca052RE5RMDA1MF95MUNpcXVIRFpHNEJhaHNyY1NCRG1IcVZlYmRVYkxPOVdqYWhTY1d3ZURscWRBYXQwTjVZdm5l?oc=5",
+        "title": "The Paint Colors That Experts Predict You’ll Be Seeing Everywhere in 2026",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHZWdjlobEhWRUlsRXRmX2I2MlJqQ1o1cWVOTFZsZVZPaVBfcjl0R0daZ0N3aDBxMHdQdmN6S0E3MUttVFRFRnEzbEVPdGNhdDhYX3p2dGFqZ3BQWmxTWkJIV2xSUkF2bC15ZERPU0ZlTTU0N09PeTk2M3doUmZ2VXhTcXpTai1fTUpGcUQ2c2lyUlpBRk9randtSWw2dkdpY1hxNW00SG1wblNYVThXLV9ZaThEN2RsaFN3bnRDOFA0Y2Uw?oc=5",
         "source": "Architectural Digest",
-        "date": "Apr 16, 2025"
+        "date": "Dec 04, 2025"
       },
       {
-        "title": "22 Brooklyn Interior Designers to Know From the AD PRO Directory",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON0FBS3FVcFltMEt1Ti1YTFNiNllvMGlCeW1pVEc2Nk12UHVqNGItSDdUOWdrakkwdnlZU1NZdFFxdV9nRGF5cFJRc2hIeUd3N3dzN2RlUEhGUVEtUFFnMW5wb3VqZG1NZjNfeENDc1kwc19NMW85Wk9WU0dGVEtuNGtSc2t0dEp4Y3BpXzRzZWhMcEpQRmhXQnhwdzdYNHc?oc=5",
-        "source": "Architectural Digest",
-        "date": "Aug 19, 2024"
+        "title": "Builders Find Hardship in Trump’s Tariffs And Deportations",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFRReHlCWkZ2aVpyTnJNWm1zMnVTU1JRd1k2MzBkTHlPVjRWbTJTNkhVV2dtQWpxZS1oT0IzYlJzRDI5UzZjTTNqSlJRSEs0T2ZsWEJRelcyWDcya3E2bnRINUwwMVY3TVF6VlllUFBzZ3hNa0NYX1NfQldjSU1wOW01SXZqSFJILWk0T1d6bEs?oc=5",
+        "source": "The New York Times",
+        "date": "Nov 02, 2025"
       },
       {
-        "title": "Tour Kelly Ripa and Mark Consuelos’s Art Deco Home in New York",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXl3STFfNFJ4cWxEUVEyQTdadzdVSDV5R2w4aHhLRC1lYno2V0ZXQnVUd2JORlhQSlJ3ek1XVFdrX1V2QlJuZU1uTm1GTTkzZ1kwaDJOc1lIZTdicFphdUo2eFV3VHRabXQxMHlSVXlwRmxiMk83bGNpV1Y5ekJPRGhOLWlwbEtxeE9nYms5UGY2elVSQTM4aXkwZ3ZnZURESkJZRFk2a2c?oc=5",
+        "title": "Inside Wes Gordon and Paul Arnhold’s NYC Home Full of Art and Heirlooms",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUFpUmlOSkVpUTc3TENXLUNYM0s1ZnlnaWxYcmp4QlhWdDhjNXlQYUhtR3BiMlpVRUJsbUl0RGx0WG5iMkdqZ3FRdjg2eHk3ekRremxCQ040alJySGFuQS1ybVFSMnY1dDRrMnJlTUhqck1tb2dfSWZYalpZLUw3dkVQUHpJUTBRWWozMi1waFRzaGhSVjFJQ0VncnFJeDFnVEdQbE5ubzluc2FkanVBV1JaZUhhMTV0MFdz?oc=5",
         "source": "Architectural Digest",
-        "date": "Dec 10, 2024"
+        "date": "Aug 05, 2025"
+      },
+      {
+        "title": "‘Excuse After Excuse’: Black and Latino Developers Face Barriers to Success (Published 2023)",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWQtM0Via2RkbnpnbW5aYU1rZ0xaUG1KY2RjZlh2TmpvZ0pZV3dKazQ3WGo0Ui1xaFBFLXZGU01KdERYYUdOQlJtamVZaHJoLWlZSGNVbENYRjR4WjM5V0hUQUMyYXRmR1FkM003eThINXpkQ1VWRkhhVGtncXhOTWF0ZG8zMHJJTklONDVLZw?oc=5",
+        "source": "The New York Times",
+        "date": "Mar 03, 2023"
       }
     ]
   },
@@ -927,28 +927,34 @@
         "date": "May 14, 2025"
       },
       {
-        "title": "Newmark Acquires Leading Real Estate Consulting and Managed Services Firm, RealFoundations",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEo5RHZydWx5SVE0cDl2eXFwUUthS2ZDakN2ZkJhZlFGanNIb2FrWkJUMnZvc2ZuaFNmeV9IeU13NF9xSERWUTR4bXpVbnpOcG12Z0JSbUxOZEtXNXpwWkF1NnBST0thR2hKSHlEay14cmxXOEdSQWZaLXpKa1B4M25FaVJrSlFDd2wwaFl1LU9EWXdhV1M2RXdTVUpndHVGZXdSdzNYckRDa0JsTjdZa04zWUFUMU8zTUJKSHdkR3NNeEVxLXdUd2UxRzJKV00?oc=5",
-        "source": "Newmark",
-        "date": "Oct 07, 2025"
-      },
-      {
         "title": "Kroll Launches AI-enabled Real Estate Valuation Solution (REVS)",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ2xNR3N4NldILTdVUEpoaDV3VHlWendTcEpraGxoMTRLZjUwMjE1d0VlNHgyV1hoeG0zUlZieWJPMHY2eldzdF9mMGhrLWhtY3R5bV91RVA2dHdueWhrOHNTRld6T21zNTNaalJJdTB6S2g1RGh1QlhSX1Zka1I0ZzVkdEpfVTBETEhjNVAxNlR6WU9leVNCVkVvOA?oc=5",
         "source": "Kroll",
         "date": "Mar 03, 2026"
       },
       {
-        "title": "Bard College selects JLL as real estate advisor, broker",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSUhIT3ZGU2JraEppREZxbk1jS0hURUVWbU9peXJBZ2xxQUpuR19fNDVWWDVZc2FPR01ucnM5QXRWUGcyWm9SYXFnaE40a2ZoNGpYWFVMOUluMXdxS19XRHdZTERIaUVPUWgyQzdSRmJDajk2Vml0d0UxNm5YakxMbmdVNjh1LWwyRnZGMzRjY2pXS2s?oc=5",
-        "source": "JLL",
-        "date": "Jul 23, 2025"
+        "title": "Newmark Acquires Leading Real Estate Consulting and Managed Services Firm, RealFoundations",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEo5RHZydWx5SVE0cDl2eXFwUUthS2ZDakN2ZkJhZlFGanNIb2FrWkJUMnZvc2ZuaFNmeV9IeU13NF9xSERWUTR4bXpVbnpOcG12Z0JSbUxOZEtXNXpwWkF1NnBST0thR2hKSHlEay14cmxXOEdSQWZaLXpKa1B4M25FaVJrSlFDd2wwaFl1LU9EWXdhV1M2RXdTVUpndHVGZXdSdzNYckRDa0JsTjdZa04zWUFUMU8zTUJKSHdkR3NNeEVxLXdUd2UxRzJKV00?oc=5",
+        "source": "Newmark",
+        "date": "Oct 07, 2025"
+      },
+      {
+        "title": "2025 U.S. Real Estate Market Outlook Midyear Review",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajBSLW5WZzRYVUhBR2xqV1g2TEM3RnZzaG1xd214SWFqVktvalh4a2NvOHFCVEtyeVlqT1ZVREdla3NPQkpmSnYxQ3JTcEVmVFhVZU8tNDUyWS1Idmd4QmJQOWJfM0I3c3JEaXZWSXFYSDFpaGxRZmZnV2FXZXFvcFBGSF9pQzU5ZWo0eDV1Z2k?oc=5",
+        "source": "CBRE",
+        "date": "Jul 30, 2025"
       },
       {
         "title": "Alvarez & Marsal hires Michael Golichowski as corporate real estate leader",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSC1YVnBWbEtXVU9LRmg4elB4RUlFb2hQV0J1RWdfUnJXbXRxTDJaMG5UWDRXUkw4eW91VGt6UWpnNVFIRmstRzZlSllwWGxLOUFieXRNLUFnbnNFTmplaUZnSDV1bEZ1S0lndkRvbGpUSmplWE40ZlZZQmVjUDNYWFVIUjhQR3BXSG1uMVotVUFrTUxSd0M2WHpiSVpuZ1djcFRQZFZyZnlST2FycnfSAbMBQVVfeXFMT1ozZTBnZW9aQ2ZnRUc5eWJUVzlKYlM0bEFUN0oycWVlN0NqVE1UVEFyMXF3X2tucXZodVRxSzNNMk9ieVB0azhGenpSVTdHOE5TeGthRUVEZ05RaHd2T3B3Zld6QnZKaWtLRzNaVGZOOGtqbFFLX0pVN004Zmo0UGR6WUZzcGw0akVCdlNvR3duN2FueUFjNEdVandQNG9vVE5aSmtwWG12TE80RlQ5dWxXV2s?oc=5",
         "source": "Consulting.us",
         "date": "Jul 08, 2025"
+      },
+      {
+        "title": "Bard College selects JLL as real estate advisor, broker",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSUhIT3ZGU2JraEppREZxbk1jS0hURUVWbU9peXJBZ2xxQUpuR19fNDVWWDVZc2FPR01ucnM5QXRWUGcyWm9SYXFnaE40a2ZoNGpYWFVMOUluMXdxS19XRHdZTERIaUVPUWgyQzdSRmJDajk2Vml0d0UxNm5YakxMbmdVNjh1LWwyRnZGMzRjY2pXS2s?oc=5",
+        "source": "JLL",
+        "date": "Jul 23, 2025"
       },
       {
         "title": "JLL Value and Risk Advisory grows presence in key gateway markets",
@@ -963,18 +969,6 @@
         "date": "Feb 20, 2026"
       },
       {
-        "title": "2025 U.S. Real Estate Market Outlook Midyear Review",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajBSLW5WZzRYVUhBR2xqV1g2TEM3RnZzaG1xd214SWFqVktvalh4a2NvOHFCVEtyeVlqT1ZVREdla3NPQkpmSnYxQ3JTcEVmVFhVZU8tNDUyWS1Idmd4QmJQOWJfM0I3c3JEaXZWSXFYSDFpaGxRZmZnV2FXZXFvcFBGSF9pQzU5ZWo0eDV1Z2k?oc=5",
-        "source": "CBRE",
-        "date": "Jul 30, 2025"
-      },
-      {
-        "title": "SURMOUNT Announces Formation of Leadership Advisory Board Comprised of Industry-Leading Real Estate Executives",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTjJzSFVTR0M3dTUyY05ZTk1PSV9YalRNZWhFVEJoQ0cwLUVLZ0FNZFBLX3R2MkdyYUxnRFVpc1p0WGt6WGVBUDlOSGpvN2JGeXJwd3dTMnVSSWR2bTg1WTlTMzlDams0eVJhMXZDT1NHZ2lxaHlGVW53WFRWZTJTLWZvTF9pb1hXLWZQN2FEdDBCdWhFcy1HdDMzQWhRbVFQcC01RlFMSV9KYVVfV29ZenJXZTZwd2pVMTllUnlLNzZEaklrNm9DY2tSdDMxWDU2U0RzTi0wSk1ndFh5SUJiVG1xRDBzYXJCbG1YQ3hOMndHTmljWEdnUGlWOA?oc=5",
-        "source": "Business Wire",
-        "date": "Jun 03, 2025"
-      },
-      {
         "title": "Students meet NYC’s who’s who of real estate | Miami Herbert Business School",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb29rb1VNOTZqM19fOHAxME9JZU5yNVlSQkhhY0JmWnN5S2dhNTZ1cFVWMlVZTXMyVFQzcW9zaDkxYWs5eE1ORzVCS2Uxd1k4SEtmR09lYjJydjFFMk1qbHJ2cTNRVm8wVzVqcW5qZF9weGVsZzlHa2p6dGJMWWJCNk9VMW5SV2ZBX05uMVBIQUxRdDhnUkxLZ3EyMENWUWd1?oc=5",
         "source": "University of Miami News",
@@ -985,18 +979,18 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUZoSEktalFjZTRLRVZidUVkSFFPbXJCeG81Tmd5anhPbVhEb29ZSFI2ZUM5cmRHWXBGRHdMc05SYmJ5M05nNlVVM2V0TUN2bDZWNkQ0bUsyRVNfeEVJUHU4NS1ueUM2TmpON0lfNlNDMTI5WDhyUFA0U2xCektUY3l5akxUbWNOYlJ0OVNkZ2V2ckt4dy1uODA4NExNVVhQaC04NTRNSlnSAa4BQVVfeXFMTVFhUk93WmlLbmdkQmwxU01kY3Z3Rk5fN195MGUwaHh1RVFqTGhHR2NVRkRrS25NY0FBVmhvbC13X1VyMGJnVm1KeHdLZFVjMy1WQ3ZPM2VUaWJPenl1bVhibHM3MXdZYnpnNkNUd2x2VS15S0hmcVlzTmZsbnZCa0hQc2hjQmxxZ2hwNDBXUmM1anJYV0gzLXZsTEpvdWkxQ3o5dkNBTW4zY3FROXRn?oc=5",
         "source": "Consulting.us",
         "date": "Nov 09, 2020"
+      },
+      {
+        "title": "EisnerAmper acquires Imowitz Koenig and real estate advisory firm RESIG",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmdWTTM4bWU0SGV3Ykk3QXRWVDJFc0FWMVJTU2Yxcl9md05VWFdPZU9xUGl2UEZZTHVNNlFVMklWUU1fQk1NdW1TQWZQbVgtRFhsQmszUWZQeTAyVUp6YUNLMW01VTVycVZ2WEhaeFBrbkRPal9Sb0d5YzBlV0xndE9aRDJ0MnQtR1Y5LTlEVlVmMEh0MFhUV3FNR0RPQTBwTVlpemNwY0JObm_SAbABQVVfeXFMUHFIMmk4emJqSWpxTlBXNktrRUFlcXpVM1VpYWdRWnM5NjJ6QWNMOVZ4Y3BjZE1vd096bkVHUE9sYmxqTW9rTnBnbXNkbVNBZ3ZlSHBMeGx0NEd3azNNTi1FNy1nWXZwcHd4bkdBck9QdzBTN1gyNXFvc0RVUGdEVDBzTmFVbnNNZnMzVFNSWkREakRsdjdoWFg5OVU5cmtBN2tfR3poTzNuR3Z0TmpEYk0?oc=5",
+        "source": "Consulting.us",
+        "date": "Sep 25, 2019"
       }
     ]
   },
   "nycreconsultants.com": {
     "niche": "NYC RE Market",
     "articles": [
-      {
-        "title": "Artificial intelligence firms are feasting on Manhattan office space",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGRPZ0g1ZjNTRE53eHNnX3Q3azI1T1RRV3puTU5YQVV0dkxTT3BIVUVaeUVVSHRNMmliMXNaeC1pU3h1ZGNUeHkyTnJBdEhpeDU3dVNGeWR0Z2NRZzg5Y2JmbkZFVDdKT3VMT3RuRnRoS0FzRUlrLXFGeEtxLUJZR1lzYlNpVTNpcGdEdW1tbF9CcjU5RTVUTkVQaw?oc=5",
-        "source": "Gothamist",
-        "date": "Jun 23, 2026"
-      },
       {
         "title": "Business Insights: The Shifting Landscape of Headquarters Relocations: 2026 Update",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTm1OcXJjVVJyVFd3SUMtVU02Zi0ydi1BU1llWldHOUhSajJ1bEd2MmhyUW1iZG5fRjdab1ozMHUwNC1sNXB2OWI0YS1uQllrV0lOU09qYjNwNFdONmZUeElFSVl0aF9zcUJsdFhjMW5JWWJQTC14QmV6MnVzTHJBVjB1VmhGMDBkaTRJYWFwT0p2S0k4Z09GTkNLNWU4UHFJNDQxOXR3SFd4VVVJVDd4ZW9VWV9jOE92TjZpa3hR?oc=5",
@@ -1016,16 +1010,16 @@
         "date": "Mar 30, 2026"
       },
       {
+        "title": "Commercial Real Estate: 2026 Trends and Predictions",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDg5N0ZCVzE2cFVCTUd1MVVFNVd0RF9ZbVRjbG5fVFVSWkMwUUxGZndOVjNreXlQaXpjZlQtZGZsMTVsMFBNN0xRTmhBZXliYnI3VmpBNVdMc1gwTkVPRkg2c2F2Qlh5WUtwcjFnVkpZYXhqZFdGM0V6V1pMVkdOdzZNUTF3MkktNXFMazRpQzZnYXlTU01seWR0dG5pYWVMZGdaWFo2aXpQLU9XT0FMY3ZoVklqbGVFOEd1NEdXTQ?oc=5",
+        "source": "Reuters",
+        "date": "Mar 01, 2026"
+      },
+      {
         "title": "Real Estate Consulting Service Market Trends",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVhXZ3JCajF5LVdrTVFKUFJzUE9QYllPdVJRd2VHeGZvaXk4ZGJucEJnQWxBRFRZeWFwTE1DQ0J5cTZWR19GNmg0LWxaRUhsX2tPUXhQNzB5Y0NFenIxdWNYVUlzYzJ3ZkpKOERMYTJtaWdWejJseGJRNHlPNU1abW1zRkhObFYzVEhZV1NpbFpYeGVKNzdRQ0dVbw?oc=5",
         "source": "Market Growth Reports",
         "date": "Jan 13, 2026"
-      },
-      {
-        "title": "Wall Street giants shift growth to Sun Belt as New York costs rise - CHOSUNBIZ",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd25lUGlNOUl3YU1hSjlWanNISjBJdlVEX1MtVDMyMXVzVWpHcnByNzBoX3VpZ2ZaUFk5Yk1oMlhxRXpJWmpyLWVaaHZSclVMd2VNTnZ6VG5JdzFyQ0VEdFN3c3VtNDZHQzBPejNoTEEyTUVGOGtmV2tUYUNnUnBMMTVGdGhfaEgw0gGcAUFVX3lxTE9HSUhTWWlZc1o4QjNVNVhnSDZMd21yOEJLVmZOQXpRR2laZEs0Rk84dG1zYjFVdU40cklZak5CVHM3TENzSDRocmZiVi05UnQzeUpRaU9WQUlIRVhlSXkwSjZETUhnMHBkTGg4S1Vfajg3eXozN1VrbTkxU3hvbllQUmt4akNFMFNTNTVZWFhTbkpCek1sWmFmbTI1TA?oc=5",
-        "source": "Chosunbiz",
-        "date": "Mar 30, 2026"
       },
       {
         "title": "The Great Wealth Transfer Is Already Here—With $6 Trillion in Inherited Money Fueling Luxury Home Sales",
@@ -1034,40 +1028,10 @@
         "date": "Jan 08, 2026"
       },
       {
-        "title": "Are offices filling up again? How workspaces in Miami compare to other cities",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWtVd1lkSGtmZ0c0SFpxT2Qtd0staG1KNHI2R0RYMDlvUUlNTzJHeEI5UHB5M2xYY0JJNmJhclNiZm5nbEoyUGpFYVRuUm0wWU9kVjFQZzhDRmZMcEJ4TlBBYU9LV3hIZ1l4eHRrMm5wVUhsM3NYakl6RXUzUG9lMXRRZXRTYmfSAYcBQVVfeXFMT1pHNkRIbnplYkJkbXJXTGd4TV8tVTVPRkY1MDVLaHh1aDVIN21CWV9Vd1FRczlWSktva0JES0NiNm1DRW5wMW5IYlhXNV9qdlcyLVVLWWJkTnk5V0EtQXBlV0NhZzlVUTZNT19jT3JDWHRpLUtoU01odUdZZkluV3NMdzQtTko4?oc=5",
-        "source": "Miami Herald",
-        "date": "Jan 09, 2026"
-      },
-      {
-        "title": "Trump wants to ban institutional investors in housing, but would it lower costs? Experts are skeptical",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHZiMmVCcHZTWFJqWWFoM1Y3LVhvWllrYTA4QXpwQnVVamVhY01aVThDak10UU9zUGVPUndYOUJGeXFFVUpzT0REeGFnMkl6bmExa3Y5YkN3eklXM1p0a3ZzLXpvaDBjeVp5UEtURlEtNFZuN1I2TGFVN1dNbm03a3g4aHB0bUN5RXBxdjBRXzNlRXJjLTRjaUpjWXA4dVVIbV9Db0ZxONIBrAFBVV95cUxOLVJoUFdxRDQ3RDRRWndCVEdpRGJHUzl3eTZUWWRrUzRmY1U3cHFhUThFUlhMRXc4TldYWG9pbEdFay12a2lNWGFXQmd5QzRZVWNWRTZqWmlzcUNpdjVMMTEwQU05SkstNnZndTc3VGxHTmk4WjhtTDNCUll0cFJPeUxzUU12dDIwNkotaUhyam9nYlRsQ0JOMzhaZmpiTFdQb3dFRWM4QkxEdFdZ?oc=5",
-        "source": "CNBC",
-        "date": "Jan 09, 2026"
-      },
-      {
-        "title": "2026 commercial real estate outlook",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGxXd0k5OHVzU0hSeGtXUTFuRVJTdUpIVnZsc3pxWjJRdUlmSVF0ZWJ2bUxsR2EtOWUyVjdqVW5Gc291TW8tTkxEanZDWlphbEdGcG9jYll1QUhwR0NJekRvMlFJMjJwbEtxTlFuMTItRGdWUE1aVFdHdXowclhxdkdvRWVKcURaU3Y1SHBOVzMwTG80d3lXdzhISGQ4TElGQWY0elVn?oc=5",
-        "source": "Deloitte",
-        "date": "Sep 29, 2025"
-      },
-      {
-        "title": "The Hottest Real Estate Markets for 2026 Are Reaping the Benefits of RTO",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXV2ZUx3YXVSSjdod25pUUNuSTJxNVNaaXVmbndYWjdnWWpFWHNWZFl6dVZQTGNZUkNqUHVNT2QxdXUyX0tzWDRsZDhSbnBDcFJ5eUxLY2hqOWtVdG0zV3kwNV81MmpOd09rU1phdkNKcG1NcEgxYzhLVUVLaWV1enh3Zkh4UlFt?oc=5",
-        "source": "Business Insider",
-        "date": "Nov 30, 2025"
-      },
-      {
-        "title": "Multifamily housing outlook and real estate trends 2026",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOXBhN1dMRFN2V1R3LUhVVHFoRE53Y2pjNU9kSGhJZ1VxMktncVdoRGhhM0NDWDB2NlZZa1doM0RSelMyR0Rra3R1TnM5LTlMbHpMNTNQTHV6MXRxWU5zRWN2aldmVDZlMlE0aXNwOGtYQWFDWXV1U1lpR0hyNWZ2VDUzZ09xV1ZJblZVSmxtVmxNWUtFRExhZm9MSU5NYlRxZlY3MlJuTUZZajFTSElIZ2kyeFZTd3NkWGlaWk9lcVpaVHN6S0tCZWxYMTYtRzAwYzJoanJRSWFQZzZFZEZHRDZhYUMwZUVvWDZ6ZjN1VW9qOXMtbEpCWTJ1UG1jU1ZYaWVjT00tQnM?oc=5",
-        "source": "PwC",
-        "date": "Nov 05, 2025"
-      },
-      {
-        "title": "NYCEDC’s 2025 “State of the NYC Economy Report” Shows Resilient Economy with Record Jobs, Bustling Office Market, and Growing Population, Despite National Headwinds",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnlJeGdTTjl3ck5xcXZCLVRvRDZzOHJkN2N5c0t0Y2VodGpkVjRlaWpUdTdUaml4M1NDSzlWRGh4ekJfbGhDS2dETEVnSnlvWXprVzB2VDl5U2daeUNGQ3BacFcxeksyVE5UQkZEV3VjVEV5MzFUUlZGSVQ3MUZ1eHZEY19lMXg1U2lWSnZZTHI1N2hycHVQWnREakQ?oc=5",
-        "source": "New York City Economic Development Corporation (NYCEDC)",
-        "date": "Dec 10, 2025"
+        "title": "Fashion-branded, Fireproof, and Fifty Shades of Beige: Luxury Real Estate Trends 2026",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLVJlbGZpSks4ZDNTOVR2WlNHVEVteF9jVy1VWGxzWnpqVThnMHUyWWZXX0pYTVhkbHA0Mk5YN3pWS1lRRHJrcnBLbjMybUQyUzdzRVVqcU9UeFFBQUdUSGVJMVMzZl9HZGlCcFFjZ3VNNnZmQWNJbmZjeUdDWXFGZzBINng4b3p4ZlMzMDBHQk1jOUI2SW1ncmJZSEVsOTE5aUp1QzBVYTVuVHlLWHdKTjNZemp3ZzJz?oc=5",
+        "source": "Architectural Digest",
+        "date": "Jan 15, 2026"
       },
       {
         "title": "Here’s what to expect for commercial real estate in 2026",
@@ -1076,22 +1040,16 @@
         "date": "Dec 30, 2025"
       },
       {
-        "title": "New JLL data reveals New York still leads in high-value talent migration",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzRhMEsteG1XOEFBa25JV0JiSlg4M3BvMjIzX2p6RlVzQy1ZWDBmRzNxa0ZJa2lKR0R1TmJobkdBcjIwSUwySHpvcnRsNFBodmY1SGpvSUVXOXRxQklPU1kybVZ0U0wxRWZYVkwzZUlyeUMzbG1WeDJ4ZzVxU2VxLUJWdlVjV3FTQXd0Y1JsUlZ6TjJTRnFPN3ctTmhESHhDRVNiaGdieEkwbVU?oc=5",
-        "source": "JLL",
-        "date": "Apr 08, 2026"
-      },
-      {
-        "title": "NYC’s top deals: The Met sells two Gilded Age townhouses for $29M in UES",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1RaZEtXSnNuZWQyMzZDbEhCYTJWRk9wSE5tUHFCSE5jR015blBwZzFtcUVkRDJ1dmdGSHlGY0hJRU9wdXYxS3hSb0c1Y1BDNnRpeEE5TGdqVm90aGpsTjBlTkFMUW1lYnM1bUlBTG9jZXg5eGdLT29iYlVfWm1hdVloNEc0LUhjcTBfSnRRNUpqU2ZjOVlOYw?oc=5",
-        "source": "The Real Deal",
-        "date": "Nov 04, 2025"
-      },
-      {
         "title": "Emerging Trends in Real Estate® 2026",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDN3dUZtSjhOUThqemdyV1g3eVpBc1dXTGxsaUVlMWNOZG5PMFlCMW1iMUR0d0dyNTVXa3NwZVI1azZYeHhWdEFpUGlXSFRsRXFDMXZVWmtPQm5MYzZzZ1R5bHdxVDUzOV95REQ0ZG5QZHlIRmhiRFJCSGpTYVY0ZmFtRXZCaTJmaG12MVNPRE5rRV92clZudTRQU3RrYXZwdWNDeF9ubU1ueVNlZWNsZzhLUTZ2VzBud1NrTFdIdmFQclVaLWl2c1c3TlBHUE8x?oc=5",
         "source": "PwC",
         "date": "Nov 05, 2025"
+      },
+      {
+        "title": "2026 commercial real estate outlook",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGxXd0k5OHVzU0hSeGtXUTFuRVJTdUpIVnZsc3pxWjJRdUlmSVF0ZWJ2bUxsR2EtOWUyVjdqVW5Gc291TW8tTkxEanZDWlphbEdGcG9jYll1QUhwR0NJekRvMlFJMjJwbEtxTlFuMTItRGdWUE1aVFdHdXowclhxdkdvRWVKcURaU3Y1SHBOVzMwTG80d3lXdzhISGQ4TElGQWY0elVn?oc=5",
+        "source": "Deloitte",
+        "date": "Sep 29, 2025"
       },
       {
         "title": "Global Real Estate Outlook",
@@ -1100,16 +1058,58 @@
         "date": "Dec 08, 2025"
       },
       {
-        "title": "Who Are the HENRYs? The High-Earning Gen Z and Millennials Redefining Luxury Real Estate",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFN5SXR1R04yVXk3R28wVjZmdTk2T2xJY3pkX3JReXE3VmFPbFpiSUt2Y2VqZXJJdnNFS2llMndCM283ZEk1cXFFS2FLdmxoYkZUOTd0cFFCU2VNU3F6VkI3MkZVMHpuQkxRSnBHZHdjWDhmUUJkQW8zajZzVXplQW1RX2VpZw?oc=5",
-        "source": "Realtor.com",
-        "date": "Mar 15, 2026"
+        "title": "PwC and ULI Report Reveals the 2026 Real Estate Trends Transforming Where We Live, Work and Invest",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLTdUdnJjSmhhbW1XcW1qempudjliWWdDS1pvd3YxS2tUWVNXdzNpZkRuRTJpXy1JTmZLRGpzM1BZdU5hVE1LMnFSbDljNTFkaHNIWXV4VDVkcHJXLUpVcGdRd3Y5a1RLa0RjS1lxZlh1X1lheWtTQzlMdy1fOUtwY21YdFpZQVlYUUdsRXljVGluWXQxOVVoVmtNcC15eUhEU2Rla29HeldXcmhteFZqZlBVOGNPcDdUYkhoaE84dFVqOExPUkEybHZSNnFYbHhuTF9HZzJrYVBXWHhQTmZ3SlJvdDNjdw?oc=5",
+        "source": "Urban Land Magazine",
+        "date": "Nov 06, 2025"
+      },
+      {
+        "title": "NYCEDC’s 2025 “State of the NYC Economy Report” Shows Resilient Economy with Record Jobs, Bustling Office Market, and Growing Population, Despite National Headwinds",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnlJeGdTTjl3ck5xcXZCLVRvRDZzOHJkN2N5c0t0Y2VodGpkVjRlaWpUdTdUaml4M1NDSzlWRGh4ekJfbGhDS2dETEVnSnlvWXprVzB2VDl5U2daeUNGQ3BacFcxeksyVE5UQkZEV3VjVEV5MzFUUlZGSVQ3MUZ1eHZEY19lMXg1U2lWSnZZTHI1N2hycHVQWnREakQ?oc=5",
+        "source": "New York City Economic Development Corporation (NYCEDC)",
+        "date": "Dec 10, 2025"
+      },
+      {
+        "title": "The New York City Office Market Is Roaring Back, and It’s Pricier Than Ever",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWM3dktSWTN4RHhVY1VyV3BCV1dSMnFVaXBxR3lQM2pDb19PQ3lhcDFIUno0eUdhekxZNHhxZkROT1FMZTBTU2JqMzVFQlpWdWpCU1d0UnVMSkNyTHM2cTdpd1dJTFUzZFc0OFRUZ2NvNWxCWjhNWDhVY21wQzM3QmNvTmpjTWVI?oc=5",
+        "source": "WSJ",
+        "date": "Oct 14, 2025"
       },
       {
         "title": "The consulting industry is on track to get upended, and we'll all have to deal with the consequences",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdm5zVEJDNEQxU0lzcXRwal9RQ3ZqLXgxZ1pGSUMtWDBnZmhwWEU1RXdnejc5dHJtQVhkUHQ5REZfMVRxR3hOQVpYN3FHbWJKQWY1ODJqZG51eFgwbmVZbWRlbVJQcFdWUFpMUk5GX1lNcElsSHdMcS1YeTMyQnNfMFZVa0cyWjFKWlE?oc=5",
         "source": "Business Insider",
         "date": "Sep 15, 2025"
+      },
+      {
+        "title": "2026 commercial real estate outlook",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFBNZzlWMTZyazM5WjlqenUzT1MtRUFMYTI0bWRuUVFWR1dYZEZ6RU9MV3J2WE9wN1V5SjR1Rmwxb2ttTkRNMVR6aElFdGZCS0JmdFRJQ3lId0ZIUnNCSi1femczWnRtYlVnekpPNmN1MHkwYi1UVXFCYmZFaEt3bmttaldnWDV0WUxZVllWcEZqYnRFVjJRWUtjUUZHMzA?oc=5",
+        "source": "J.P. Morgan",
+        "date": "Jan 06, 2026"
+      },
+      {
+        "title": "Multifamily housing outlook and real estate trends 2026",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOXBhN1dMRFN2V1R3LUhVVHFoRE53Y2pjNU9kSGhJZ1VxMktncVdoRGhhM0NDWDB2NlZZa1doM0RSelMyR0Rra3R1TnM5LTlMbHpMNTNQTHV6MXRxWU5zRWN2aldmVDZlMlE0aXNwOGtYQWFDWXV1U1lpR0hyNWZ2VDUzZ09xV1ZJblZVSmxtVmxNWUtFRExhZm9MSU5NYlRxZlY3MlJuTUZZajFTSElIZ2kyeFZTd3NkWGlaWk9lcVpaVHN6S0tCZWxYMTYtRzAwYzJoanJRSWFQZzZFZEZHRDZhYUMwZUVvWDZ6ZjN1VW9qOXMtbEpCWTJ1UG1jU1ZYaWVjT00tQnM?oc=5",
+        "source": "PwC",
+        "date": "Nov 05, 2025"
+      },
+      {
+        "title": "NYCEDC Releases Inaugural “State of the Economy” Report, Providing In-Depth Data and Analysis on New York City’s Strong Recovery",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdzVlVXlxOHZWQjUyR21aQ0d1bnFQcUFYWEQwRU9JTXA2RFlXV2ZVLXVXSHVaeS14dFZmZ2FwQ3h4ZkRtRWI5ZjllT1VwOTRWblBLNlF3cGJucVNKYmxWMW9GUzJjWVlCdlpWYk9tN3V3aFh3bnVWNjJCR296M2ZlcEpB?oc=5",
+        "source": "New York City Economic Development Corporation (NYCEDC)",
+        "date": "Jan 07, 2025"
+      },
+      {
+        "title": "Top U.S. real estate markets to watch in 2026",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTHdBMHNvY2Z6VXVlNUFXS1NoTTRiVC1aYm5tZnBoS293SklyTEtiNU9vcnVsZEJaUUkySkFzUjBHUjBuUjlTdzBYakItR0d5ZHFTd1dRUGxKMGNjVm9uMk8zU2pDODVIUlE0M00yNi1wdnBSdFJ3T3NUQll6cFA3YkpNQlJoM1dtcG9LZTBqWGh3V1BOWXBXZ2JoZEVlSFpoYjB4MGMwQ3luZDlBdi00WHRjZFRzMkFvRE1hSkhSZWlkcGVaal8td1JCa2lteW54OHdQOXlKdUpGMERvV1Zfckh4N0VpLTA?oc=5",
+        "source": "PwC",
+        "date": "Nov 05, 2025"
+      },
+      {
+        "title": "Senior housing outlook 2026 aging demographics investment and development trends",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZ3dCcUw2ck9WNmlhOWsyX1VaNXdwUW5raTdULXJudG1hQVpsdDU1cml4aUxvdFJoVm1oQXJmMWpLemRzVWYzR1JSR1pxTENXS1BXTElka2JWWHNLdFdJQW1PMU5nZVpCYi1HcGZud0N6QTJqLUpWRi1fVmFZZG55M05vMVEtT0FXeGV5Vk9iSlh3eHc4TDdFSXNlYVZsdmhiZ2l2UlhRWkVsNlQyTmpXZUV2bzRGUFpvaFF6ZEtodzdiWF91dUg4UTJQQ2dmclBObEF6eGs1U1lRODFDc1lzY2psQmdwVGNaLXJHU1A4dU10eFI4ZjFUNDdxRUVVaEpaN3c?oc=5",
+        "source": "PwC",
+        "date": "Nov 05, 2025"
       }
     ]
   }
