@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Edge function handles host-based routing:
+# each lease domain → /sites/<domain>/index.html (fully static, SEO-optimised)
+[[edge_functions]]
+  function = "router"
+  path     = "/*"
