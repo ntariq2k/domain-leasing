@@ -8,3 +8,6 @@ https://www.nycroofexperts.com/*     https://nycroofexperts.com/:splat     301!
 https://www.nycpaintexperts.com/*    https://nycpaintexperts.com/:splat    301!
 https://www.nycreconsultant.com/*    https://nycreconsultant.com/:splat    301!
 https://www.nycreconsultants.com/*   https://nycreconsultants.com/:splat   301!
+
+# Fallback: serve index.html for any unmatched path (SPA-style catch-all)
+/*  /index.html  200
