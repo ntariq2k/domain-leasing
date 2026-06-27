@@ -1,6 +1,6 @@
 """
-Fetches Google News RSS for each lease domain and writes blog-data.json.
-Run locally or via GitHub Actions daily.
+Fetches Google News RSS for each lease domain and writes blog-data.json + sitemap.xml.
+Run locally or via GitHub Actions (every 6 hours).
 """
 
 import urllib.request
@@ -24,7 +24,7 @@ DOMAINS = {
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; domain-news-bot/1.0)'}
 
 
-def fetch_rss(query, count=6):
+def fetch_rss(query, count=20):
     encoded = urllib.parse.quote(query)
     url = f'https://news.google.com/rss/search?q={encoded}&hl=en-US&gl=US&ceid=US:en'
     try:
@@ -45,7 +45,7 @@ def parse_date(pub_date):
     return pub_date[:10] if pub_date else ''
 
 
-def parse_rss(xml_bytes, count=6):
+def parse_rss(xml_bytes, count=20):
     if not xml_bytes:
         return []
     try:
@@ -84,8 +84,30 @@ def parse_rss(xml_bytes, count=6):
     return articles
 
 
+def write_sitemap(domain_list, date_str):
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ]
+    for domain in domain_list:
+        lines += [
+            '  <url>',
+            f'    <loc>https://{domain}/</loc>',
+            f'    <lastmod>{date_str}</lastmod>',
+            '    <changefreq>daily</changefreq>',
+            '    <priority>1.0</priority>',
+            '  </url>',
+        ]
+    lines.append('</urlset>')
+    with open('sitemap.xml', 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines) + '\n')
+    print(f'sitemap.xml written with {len(domain_list)} URLs')
+
+
 def main():
-    result = {'updated': datetime.now(timezone.utc).strftime('%Y-%m-%d')}
+    now = datetime.now(timezone.utc)
+    date_str = now.strftime('%Y-%m-%d')
+    result = {'updated': date_str}
 
     for domain, cfg in DOMAINS.items():
         print(f'Fetching: {domain} — "{cfg["query"]}"')
@@ -100,6 +122,8 @@ def main():
 
     total = sum(len(v.get('articles', [])) for v in result.values() if isinstance(v, dict))
     print(f'\nDone. {total} total articles written to {out_path}')
+
+    write_sitemap(list(DOMAINS.keys()), date_str)
 
 
 if __name__ == '__main__':
