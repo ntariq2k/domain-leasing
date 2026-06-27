@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Premium Domain Available for Lease</title>
+  <meta name="description" id="meta-desc" content="Premium domain available for lease. Exclusive use, month-to-month or multi-year discounts available.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" id="og-title" content="Premium Domain Available for Lease">
+  <meta property="og:description" id="og-desc" content="Premium domain available for lease.">
+  <link rel="canonical" id="canonical" href="/">
+  <meta name="robots" content="index, follow">
+  <script type="application/ld+json" id="schema-json">{}</script>
+  <style>
+    :root {
+      --primary: #0d1b4b;
+      --accent: #2563eb;
+      --green: #16a34a;
+      --bg: #f4f6fb;
+      --white: #ffffff;
+      --border: #e2e8f0;
+      --text: #111827;
+      --muted: #6b7280;
+      --shadow: 0 2px 20px rgba(0,0,0,0.07);
+      --radius: 14px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* HEADER */
+    header {
+      background: linear-gradient(135deg, #0d1b4b 0%, #1e3a8a 100%);
+      color: white;
+      padding: 56px 24px 48px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      top: -60px; right: -60px;
+      width: 300px; height: 300px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.04);
+    }
+    header::after {
+      content: '';
+      position: absolute;
+      bottom: -80px; left: -40px;
+      width: 240px; height: 240px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.03);
+    }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: rgba(255,255,255,0.9);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 20px;
+      margin-bottom: 20px;
+    }
+    .dot { width: 6px; height: 6px; background: #4ade80; border-radius: 50%; animation: pulse 2s infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+    h1 {
+      font-size: clamp(30px, 7vw, 58px);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      margin-bottom: 12px;
+      word-break: break-word;
+    }
+    .tagline {
+      font-size: clamp(14px, 2.5vw, 17px);
+      color: rgba(255,255,255,0.75);
+      max-width: 520px;
+      margin: 0 auto;
+    }
+
+    /* MAIN */
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 36px 20px 80px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    /* CARDS */
+    .card {
+      background: var(--white);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 28px 30px;
+      border: 1px solid var(--border);
+    }
+    .card-title {
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+
+    /* FEATURES */
+    .features { list-style: none; display: flex; flex-direction: column; gap: 11px; }
+    .features li {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      font-size: 15px;
+      color: var(--text);
+    }
+    .check {
+      flex-shrink: 0;
+      width: 20px; height: 20px;
+      background: #dcfce7;
+      color: var(--green);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 11px;
+      font-weight: 700;
+      margin-top: 2px;
+    }
+
+    /* PRICING GRID */
+    .pricing-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 10px;
+    }
+    @media (max-width: 520px) { .pricing-grid { grid-template-columns: 1fr; } }
+    .tier {
+      border: 1.5px solid var(--border);
+      border-radius: 10px;
+      padding: 16px 14px;
+      text-align: center;
+      position: relative;
+    }
+    .tier-featured {
+      border-color: var(--accent);
+      background: #eff6ff;
+    }
+    .tier-badge {
+      position: absolute;
+      top: -11px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--accent);
+      color: white;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+    .tier-term {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    .tier-featured .tier-term { color: var(--accent); }
+    .tier-price {
+      font-size: 26px;
+      font-weight: 900;
+      color: var(--primary);
+      letter-spacing: -0.03em;
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+    .tier-per { font-size: 11px; color: var(--muted); margin-bottom: 6px; }
+    .tier-save {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 4px;
+      background: #dcfce7;
+      color: var(--green);
+    }
+    .tier-save.none { background: transparent; color: transparent; }
+
+    /* FORM */
+    form { display: flex; flex-direction: column; gap: 14px; }
+    .field { display: flex; flex-direction: column; gap: 5px; }
+    .field label { font-size: 13px; font-weight: 600; color: var(--text); }
+    .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+    @media (max-width: 480px) { .grid2 { grid-template-columns: 1fr; } }
+    input, textarea, select {
+      width: 100%;
+      padding: 10px 13px;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: 14px;
+      font-family: inherit;
+      color: var(--text);
+      background: white;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    input:focus, textarea:focus, select:focus { border-color: var(--accent); }
+    textarea { min-height: 90px; resize: vertical; }
+    select { appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236b7280' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 13px center; padding-right: 36px; }
+
+    .btn {
+      background: var(--accent);
+      color: white;
+      border: none;
+      padding: 14px 24px;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s, transform 0.1s;
+      width: 100%;
+      letter-spacing: 0.01em;
+    }
+    .btn:hover:not(:disabled) { background: #1d4ed8; transform: translateY(-1px); }
+    .btn:active { transform: translateY(0); }
+    .btn:disabled { opacity: 0.6; cursor: not-allowed; }
+
+    /* SUCCESS */
+    .success {
+      display: none;
+      background: #f0fdf4;
+      border: 1.5px solid #86efac;
+      border-radius: 10px;
+      padding: 24px;
+      text-align: center;
+    }
+    .success-icon { font-size: 36px; margin-bottom: 8px; }
+    .success h3 { color: var(--green); font-size: 17px; margin-bottom: 6px; }
+    .success p { color: var(--muted); font-size: 14px; }
+
+    /* NEWS SECTION */
+    .news-list { display: flex; flex-direction: column; }
+    .news-item {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .news-item:last-child { border-bottom: none; padding-bottom: 0; }
+    .news-item:first-child { padding-top: 0; }
+    .news-title {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--accent);
+      text-decoration: none;
+      line-height: 1.4;
+    }
+    .news-title:hover { text-decoration: underline; }
+    .news-meta { font-size: 11px; color: var(--muted); }
+    .news-loading { text-align: center; color: var(--muted); font-size: 13px; padding: 16px 0; }
+    .news-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--green);
+      background: #dcfce7;
+      padding: 2px 8px;
+      border-radius: 20px;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+
+    /* FOOTER */
+    footer {
+      text-align: center;
+      padding: 24px 16px;
+      font-size: 12px;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="pill"><span class="dot"></span> Available Now</div>
+  <h1 id="domain-name">Loading...</h1>
+  <p class="tagline" id="tagline"></p>
+</header>
+
+<main>
+  <div class="card">
+    <div class="card-title">Why this domain</div>
+    <ul class="features" id="features"></ul>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Lease pricing</div>
+    <div class="pricing-grid">
+      <div class="tier">
+        <div class="tier-term">Monthly</div>
+        <div class="tier-price" id="price-monthly"></div>
+        <div class="tier-per">per month</div>
+        <span class="tier-save none">-</span>
+      </div>
+      <div class="tier tier-featured">
+        <div class="tier-badge">Most popular</div>
+        <div class="tier-term">Annual</div>
+        <div class="tier-price" id="price-annual"></div>
+        <div class="tier-per">per month, billed yearly</div>
+        <span class="tier-save">Save 15%</span>
+      </div>
+      <div class="tier">
+        <div class="tier-term">2-Year</div>
+        <div class="tier-price" id="price-biennial"></div>
+        <div class="tier-per">per month, billed 2yr</div>
+        <span class="tier-save">Save 25%</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">Inquire about this domain</div>
+    <div class="success" id="success">
+      <div class="success-icon">✅</div>
+      <h3>Message received!</h3>
+      <p>We'll follow up within 24 hours at the email you provided.</p>
+    </div>
+    <form id="inquiry-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+      <input type="hidden" name="_subject" id="subject-hidden">
+      <input type="hidden" name="domain" id="domain-hidden">
+      <div class="grid2">
+        <div class="field">
+          <label for="name">Full name *</label>
+          <input id="name" type="text" name="name" required placeholder="Jane Smith">
+        </div>
+        <div class="field">
+          <label for="business">Business name</label>
+          <input id="business" type="text" name="business" placeholder="Acme LLC">
+        </div>
+      </div>
+      <div class="grid2">
+        <div class="field">
+          <label for="email">Email *</label>
+          <input id="email" type="email" name="email" required placeholder="you@company.com">
+        </div>
+        <div class="field">
+          <label for="phone">Phone</label>
+          <input id="phone" type="tel" name="phone" placeholder="(212) 555-0100">
+        </div>
+      </div>
+      <div class="field">
+        <label for="term">Preferred lease term</label>
+        <select id="term" name="term">
+          <option value="monthly">Month-to-month</option>
+          <option value="annual">Annual — save 15%</option>
+          <option value="biennial">2-Year — save 25%</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="message">Tell us about your business</label>
+        <textarea id="message" name="message" placeholder="How would you use this domain? What market are you serving?"></textarea>
+      </div>
+      <button type="submit" class="btn" id="submit-btn">Send Inquiry →</button>
+    </form>
+  </div>
+  <div class="card" id="news-card" style="display:none">
+    <div class="card-title" id="news-title-bar">Industry News <span class="news-badge">Live</span></div>
+    <div class="news-list" id="news-list">
+      <div class="news-loading">Loading latest news...</div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  Direct inquiries: <a href="mailto:omegaincomeclub@gmail.com">omegaincomeclub@gmail.com</a>
+</footer>
+
+<script>
+const DOMAINS = {
+  'nycreagent.com': {
+    tagline: 'Short, clean, powerful — the ultimate digital identity for a NYC real estate agent.',
+    features: [
+      'Ultra-brandable: NYC + RE + Agent in 12 characters — the kind of name top producers pay for',
+      'One closed NYC deal covers years of lease fees — avg commission is $25,000+',
+      'Ideal for solo agents, top-producing teams, and boutique brokerages scaling in NYC',
+    ],
+    monthly: '$450', annual: '$383', biennial: '$338',
+  },
+  'webuyqueens.com': {
+    tagline: 'Own the cash home buying market in Queens — one of NYC\'s most active boroughs.',
+    features: [
+      'Queens processes thousands of off-market home sales annually — this domain owns that search',
+      'A single wholesale deal in Queens nets $10,000–$40,000 — this domain pays for itself in hours',
+      'Clean, memorable brand investors and sellers trust immediately',
+    ],
+    monthly: '$300', annual: '$255', biennial: '$225',
+  },
+  'webuynycbuilding.com': {
+    tagline: 'The definitive brand for NYC commercial and multi-family building acquisition.',
+    features: [
+      'NYC multi-family and commercial deals routinely close at $1M–$50M+ — one deal justifies years of lease',
+      'Perfect for syndicates, private equity firms, and commercial real estate investors',
+      'Bundle with webuynycbuildings.com for complete brand dominance',
+    ],
+    monthly: '$350', annual: '$298', biennial: '$263',
+  },
+  'webuynycbuildings.com': {
+    tagline: 'The plural companion to webuynycbuilding.com — capture every search variation.',
+    features: [
+      'Covers both singular and plural search traffic for NYC building buyers',
+      'Best leased as a bundle with webuynycbuilding.com for total brand coverage',
+      'Commercial real estate in NYC is among the highest-value markets on the planet',
+    ],
+    monthly: '$200', annual: '$170', biennial: '$150',
+  },
+  'njsellersagent.com': {
+    tagline: 'The go-to brand for New Jersey listing agents who dominate their market.',
+    features: [
+      'NJ median home price is $550,000+ — seller-side agents earning 2.5–3% commissions need this brand',
+      'Keyword-perfect: motivated sellers searching for NJ listing representation land here',
+      'Build a multi-million dollar listing operation on a name that already tells the story',
+    ],
+    monthly: '$250', annual: '$213', biennial: '$188',
+  },
+  'nycroofexperts.com': {
+    tagline: 'Become the most recognized roofing brand in the most expensive city in America.',
+    features: [
+      'NYC roofing contracts average $15,000–$80,000 — this domain generates ROI on the first call',
+      'Geo + trade = instant local SEO authority in one of the most competitive contractor markets',
+      'Ideal for established roofing companies looking to scale their NYC presence fast',
+    ],
+    monthly: '$200', annual: '$170', biennial: '$150',
+  },
+  'nycpaintexperts.com': {
+    tagline: 'The authority brand for painting contractors ready to own the NYC market.',
+    features: [
+      'NYC commercial painting contracts routinely run $20,000–$200,000+ per project',
+      'Instantly positions your company as the expert choice in a city of 8 million people',
+      'One commercial building contract from this domain covers years of lease costs',
+    ],
+    monthly: '$150', annual: '$128', biennial: '$113',
+  },
+  'nycreconsultant.com': {
+    tagline: 'The authority brand for NYC real estate consultants commanding premium fees.',
+    features: [
+      'NYC RE consulting engagements regularly command $500–$5,000/hour — this domain matches that caliber',
+      'Bundle with nycreconsultants.com for complete singular + plural brand coverage',
+      'Clean, professional, authoritative — the name serious consultants build empires on',
+    ],
+    monthly: '$225', annual: '$191', biennial: '$169',
+  },
+  'nycreconsultants.com': {
+    tagline: 'The plural powerhouse brand for NYC real estate consulting firms.',
+    features: [
+      'Ideal for multi-advisor practices, RE advisory firms, and consulting groups in New York City',
+      'Bundle with nycreconsultant.com to own both singular and plural — no competitor can touch you',
+      'NYC\'s high-end RE consulting market is worth billions — this name puts you at the front of it',
+    ],
+    monthly: '$200', annual: '$170', biennial: '$150',
+  },
+};
+
+const raw = window.location.hostname.replace(/^www\./, '');
+const hostname = (raw === 'localhost' || raw === '127.0.0.1' || raw === '') ? 'nycreagent.com' : raw;
+
+const data = DOMAINS[hostname] || {
+  tagline: 'This premium domain is available for lease.',
+  features: [
+    'High-value domain with strong keyword and brand alignment',
+    'Exclusive lease — you own all traffic and leads',
+    'Flexible terms available — inquire below',
+  ],
+  monthly: 'Inquire', annual: 'Inquire', biennial: 'Inquire',
+};
+
+document.title = hostname + ' — Available for Lease';
+document.getElementById('domain-name').textContent = hostname;
+document.getElementById('tagline').textContent = data.tagline;
+document.getElementById('price-monthly').textContent = data.monthly + '/mo';
+document.getElementById('price-annual').textContent = data.annual + '/mo';
+document.getElementById('price-biennial').textContent = data.biennial + '/mo';
+document.getElementById('domain-hidden').value = hostname;
+document.getElementById('subject-hidden').value = 'Domain lease inquiry: ' + hostname;
+document.getElementById('features').innerHTML = data.features
+  .map(f => `<li><span class="check">✓</span><span>${f}</span></li>`)
+  .join('');
+
+// SEO meta tags
+const metaDesc = `Premium domain for lease: ${hostname} — ${data.tagline}`;
+document.getElementById('meta-desc').setAttribute('content', metaDesc);
+document.getElementById('og-title').setAttribute('content', `${hostname} — Available for Lease`);
+document.getElementById('og-desc').setAttribute('content', metaDesc);
+document.getElementById('canonical').setAttribute('href', `https://${hostname}/`);
+document.getElementById('schema-json').textContent = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": `${hostname} — Available for Lease`,
+  "description": metaDesc,
+  "url": `https://${hostname}/`,
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": data.monthly.replace('$',''),
+    "availability": "https://schema.org/InStock",
+    "description": "Domain lease — exclusive use, month-to-month"
+  }
+});
+
+// Load industry news from blog-data.json (generated daily by GitHub Action)
+async function loadNews() {
+  try {
+    const res = await fetch('/blog-data.json');
+    if (!res.ok) return;
+    const data = await res.json();
+    const entry = data[hostname];
+    if (!entry || !entry.articles || entry.articles.length === 0) return;
+    const card = document.getElementById('news-card');
+    const list = document.getElementById('news-list');
+    const bar  = document.getElementById('news-title-bar');
+    bar.innerHTML = `${entry.niche} News <span class="news-badge">Updated Daily</span>`;
+    list.innerHTML = entry.articles.map(a => `
+      <div class="news-item">
+        <a class="news-title" href="${a.link}" target="_blank" rel="noopener noreferrer">${a.title}</a>
+        <span class="news-meta">${a.source} &middot; ${a.date}</span>
+      </div>`).join('');
+    card.style.display = 'block';
+  } catch { /* no news is fine */ }
+}
+loadNews();
+
+const form = document.getElementById('inquiry-form');
+const btn = document.getElementById('submit-btn');
+const success = document.getElementById('success');
+
+form.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  btn.textContent = 'Sending...';
+  btn.disabled = true;
+  try {
+    const res = await fetch(form.action, {
+      method: 'POST',
+      body: new FormData(form),
+      headers: { Accept: 'application/json' },
+    });
+    if (res.ok) {
+      form.style.display = 'none';
+      success.style.display = 'block';
+    } else {
+      btn.textContent = 'Something went wrong — try again';
+      btn.disabled = false;
+    }
+  } catch {
+    btn.textContent = 'Something went wrong — try again';
+    btn.disabled = false;
+  }
+});
+</script>
+
+</body>
+</html>

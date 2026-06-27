@@ -1,0 +1,10 @@
+# Force www → apex for all domains
+https://www.nycreagent.com/*         https://nycreagent.com/:splat         301!
+https://www.webuyqueens.com/*        https://webuyqueens.com/:splat        301!
+https://www.webuynycbuilding.com/*   https://webuynycbuilding.com/:splat   301!
+https://www.webuynycbuildings.com/*  https://webuynycbuildings.com/:splat  301!
+https://www.njsellersagent.com/*     https://njsellersagent.com/:splat     301!
+https://www.nycroofexperts.com/*     https://nycroofexperts.com/:splat     301!
+https://www.nycpaintexperts.com/*    https://nycpaintexperts.com/:splat    301!
+https://www.nycreconsultant.com/*    https://nycreconsultant.com/:splat    301!
+https://www.nycreconsultants.com/*   https://nycreconsultants.com/:splat   301!
