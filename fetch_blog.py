@@ -23,7 +23,7 @@ from datetime import datetime, timezone
 # ---------------------------------------------------------------------------
 DOMAINS = {
     'nycreagent.com': {
-        'query':       'NYC real estate agent market 2024',
+        'query':       'NYC real estate agent when:30d',
         'niche':       'NYC Real Estate',
         'tagline':     'Short, clean, powerful — the ultimate digital identity for a NYC real estate agent.',
         'features': [
@@ -43,7 +43,7 @@ DOMAINS = {
         'geo_region':  'US-NY', 'geo_place': 'New York City', 'schema_type': 'RealEstateAgent',
     },
     'webuyqueens.com': {
-        'query':       'Queens NY home buyers real estate market',
+        'query':       'Queens NY home sale real estate when:30d',
         'niche':       'Queens Real Estate',
         'tagline':     "Own the cash home buying market in Queens — one of NYC's most active boroughs.",
         'features': [
@@ -63,7 +63,7 @@ DOMAINS = {
         'geo_region':  'US-NY', 'geo_place': 'Queens, New York', 'schema_type': 'RealEstateAgent',
     },
     'webuynycbuilding.com': {
-        'query':       'NYC commercial building investment acquisition 2024',
+        'query':       'NYC commercial building investment when:30d',
         'niche':       'NYC Commercial Real Estate',
         'tagline':     'The definitive brand for NYC commercial and multi-family building acquisition.',
         'features': [
@@ -84,7 +84,7 @@ DOMAINS = {
         'geo_region':  'US-NY', 'geo_place': 'New York City', 'schema_type': 'RealEstateAgent',
     },
     'webuynycbuildings.com': {
-        'query':       'New York City multifamily building sale investment',
+        'query':       'New York City building sale investment when:30d',
         'niche':       'NYC Building Market',
         'tagline':     'The plural companion to webuynycbuilding.com — capture every search variation.',
         'features': [
@@ -104,7 +104,7 @@ DOMAINS = {
         'geo_region':  'US-NY', 'geo_place': 'New York City', 'schema_type': 'RealEstateAgent',
     },
     'njsellersagent.com': {
-        'query':       'New Jersey home selling listing agent market 2024',
+        'query':       'New Jersey home selling real estate when:30d',
         'niche':       'NJ Real Estate',
         'tagline':     'The go-to brand for New Jersey listing agents who dominate their market.',
         'features': [
@@ -124,7 +124,7 @@ DOMAINS = {
         'geo_region':  'US-NJ', 'geo_place': 'New Jersey', 'schema_type': 'RealEstateAgent',
     },
     'nycroofexperts.com': {
-        'query':       'NYC roofing contractor repair installation cost',
+        'query':       'NYC roofing contractor repair cost when:90d',
         'niche':       'NYC Roofing',
         'tagline':     'Become the most recognised roofing brand in the most expensive city in America.',
         'features': [
@@ -144,7 +144,7 @@ DOMAINS = {
         'geo_region':  'US-NY', 'geo_place': 'New York City', 'schema_type': 'HomeAndConstructionBusiness',
     },
     'nycpaintexperts.com': {
-        'query':       'NYC painting contractor commercial residential',
+        'query':       'NYC painting contractor commercial when:90d',
         'niche':       'NYC Painting',
         'tagline':     'The authority brand for painting contractors ready to own the NYC market.',
         'features': [
@@ -164,7 +164,7 @@ DOMAINS = {
         'geo_region':  'US-NY', 'geo_place': 'New York City', 'schema_type': 'HomeAndConstructionBusiness',
     },
     'nycreconsultant.com': {
-        'query':       'NYC real estate consulting market advisory',
+        'query':       'NYC real estate consulting market when:30d',
         'niche':       'NYC RE Consulting',
         'tagline':     'The authority brand for NYC real estate consultants commanding premium fees.',
         'features': [
@@ -185,7 +185,7 @@ DOMAINS = {
         'geo_region':  'US-NY', 'geo_place': 'New York City', 'schema_type': 'ProfessionalService',
     },
     'nycreconsultants.com': {
-        'query':       'New York real estate market trends consulting firms',
+        'query':       'New York real estate market trends when:30d',
         'niche':       'NYC RE Market',
         'tagline':     'The plural powerhouse brand for NYC real estate consulting firms.',
         'features': [
@@ -223,6 +223,20 @@ def fetch_rss(query):
     except Exception as e:
         print(f'  RSS fetch error: {e}')
         return None
+
+
+def fetch_rss_with_fallback(query, min_count=10):
+    """Fetch RSS; if results are thin, retry with a broader time window."""
+    xml_bytes = fetch_rss(query)
+    articles  = parse_rss(xml_bytes)
+    if len(articles) < min_count:
+        # Strip any when: filter and retry without date restriction
+        broad_query = re.sub(r'\s+when:\S+', '', query).strip()
+        if broad_query != query:
+            print(f'  Only {len(articles)} articles — retrying without time filter')
+            xml_bytes = fetch_rss(broad_query)
+            articles  = parse_rss(xml_bytes)
+    return articles
 
 
 def parse_date(pub_date):
@@ -583,7 +597,7 @@ def main():
 
     for domain, cfg in DOMAINS.items():
         print(f'\nFetching: {domain} — "{cfg["query"]}"')
-        articles = parse_rss(fetch_rss(cfg['query']))
+        articles = fetch_rss_with_fallback(cfg['query'])
         result[domain] = {'niche': cfg['niche'], 'articles': articles}
         print(f'  {len(articles)} articles fetched')
 
