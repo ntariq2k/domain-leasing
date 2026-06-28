@@ -533,6 +533,7 @@ def generate_html(domain, cfg, articles, date_str, css):
 <footer>
   <p>Premium domain lease listing &middot; Last updated {date_str} &middot;
   <a href="mailto:omegaincomeclub@gmail.com">Contact owner</a></p>
+  <p class="visitor-count" id="visitor-count" aria-live="polite"></p>
 </footer>
 
 <script>
@@ -556,6 +557,20 @@ def generate_html(domain, cfg, articles, date_str, css):
       btn.disabled = false;
     }});
   }});
+
+  // Visitor counter — CounterAPI.dev (free, no signup). Fails silently.
+  (function () {{
+    var el = document.getElementById('visitor-count');
+    if (!el) return;
+    var slug = window.location.hostname.replace(/^www\./, '').replace(/\./g, '-') || 'local';
+    fetch('https://api.counterapi.dev/v1/omegaincomeclub/' + slug + '/up')
+      .then(function (r) {{ return r.ok ? r.json() : null; }})
+      .then(function (d) {{
+        if (!d || typeof d.count !== 'number') return;
+        el.innerHTML = '<span class="vc-num">' + d.count.toLocaleString() + '</span> visits';
+      }})
+      .catch(function () {{}});
+  }})();
 }})();
 </script>
 </body>
