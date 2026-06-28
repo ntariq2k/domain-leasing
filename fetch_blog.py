@@ -558,18 +558,34 @@ def generate_html(domain, cfg, articles, date_str, css):
     }});
   }});
 
-  // Visitor counter — CounterAPI.dev (free, no signup). Fails silently.
+  // Visitor counter — CounterAPI.dev for shared count, localStorage fallback if the
+  // API fails (CORS, carrier filter, service down) so the pill is always visible.
   (function () {{
     var el = document.getElementById('visitor-count');
     if (!el) return;
-    var slug = window.location.hostname.replace(/^www\./, '').replace(/\./g, '-') || 'local';
+    var slug = (window.location.hostname || 'local').replace(/^www\./, '').replace(/\./g, '-');
+    var key  = 'vc-' + slug;
+    function render(n) {{ el.innerHTML = '<span class="vc-num">' + n.toLocaleString() + '</span> visits'; }}
+    el.textContent = 'Loading visits…';
+    function fallback() {{
+      var n = (parseInt(localStorage.getItem(key), 10) || 0) + 1;
+      localStorage.setItem(key, String(n));
+      render(n);
+    }}
+    var done = false;
+    var timeout = setTimeout(function () {{ if (!done) {{ done = true; fallback(); }} }}, 2500);
     fetch('https://api.counterapi.dev/v1/omegaincomeclub/' + slug + '/up')
       .then(function (r) {{ return r.ok ? r.json() : null; }})
       .then(function (d) {{
-        if (!d || typeof d.count !== 'number') return;
-        el.innerHTML = '<span class="vc-num">' + d.count.toLocaleString() + '</span> visits';
+        if (done) return;
+        done = true; clearTimeout(timeout);
+        if (d && typeof d.count === 'number') render(d.count); else fallback();
       }})
-      .catch(function () {{}});
+      .catch(function () {{
+        if (done) return;
+        done = true; clearTimeout(timeout);
+        fallback();
+      }});
   }})();
 }})();
 </script>
