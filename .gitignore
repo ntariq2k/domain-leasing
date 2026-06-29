@@ -1,2 +1,16 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+.env
+
+# Outreach sensitive files
+outreach/credentials.json
+outreach/token.json
+outreach/leads.json
+outreach/email_queue.json
+outreach/send_log.json
+
+# OS
+.DS_Store
+Thumbs.db

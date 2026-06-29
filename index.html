@@ -307,18 +307,6 @@
       border-top: 1px solid var(--border);
     }
     footer a { color: var(--accent); text-decoration: none; }
-    .visitor-count {
-      display: inline-block;
-      margin-top: 12px;
-      padding: 5px 14px;
-      font-size: 12px;
-      color: var(--muted);
-      background: #f4f6fb;
-      border: 1px solid var(--border);
-      border-radius: 999px;
-      letter-spacing: 0.04em;
-    }
-    .visitor-count .vc-num { font-weight: 700; color: var(--text); }
   </style>
 </head>
 <body>
@@ -415,7 +403,6 @@
 
 <footer>
   Direct inquiries: <a href="mailto:omegaincomeclub@gmail.com">omegaincomeclub@gmail.com</a>
-  <div class="visitor-count" id="visitor-count" aria-live="polite"></div>
 </footer>
 
 <script>
@@ -649,36 +636,6 @@ async function loadNews() {
   } catch { /* no news is fine */ }
 }
 loadNews();
-
-// Visitor counter — CounterAPI.dev for shared count, localStorage fallback if the API
-// fails (CORS, carrier filter, service down) so the pill is always visible.
-(function () {
-  const el = document.getElementById('visitor-count');
-  if (!el) return;
-  const slug = (hostname || 'local').replace(/\./g, '-');
-  const key  = 'vc-' + slug;
-  const render = n => { el.innerHTML = `<span class="vc-num">${n.toLocaleString()}</span> visits`; };
-  el.textContent = 'Loading visits…';
-  const fallback = () => {
-    const n = (parseInt(localStorage.getItem(key), 10) || 0) + 1;
-    localStorage.setItem(key, String(n));
-    render(n);
-  };
-  let done = false;
-  const timeout = setTimeout(() => { if (!done) { done = true; fallback(); } }, 2500);
-  fetch(`https://api.counterapi.dev/v1/omegaincomeclub/${slug}/up`)
-    .then(r => r.ok ? r.json() : null)
-    .then(d => {
-      if (done) return;
-      done = true; clearTimeout(timeout);
-      if (d && typeof d.count === 'number') render(d.count); else fallback();
-    })
-    .catch(() => {
-      if (done) return;
-      done = true; clearTimeout(timeout);
-      fallback();
-    });
-})();
 
 const form = document.getElementById('inquiry-form');
 const btn = document.getElementById('submit-btn');

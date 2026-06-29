@@ -533,7 +533,6 @@ def generate_html(domain, cfg, articles, date_str, css):
 <footer>
   <p>Premium domain lease listing &middot; Last updated {date_str} &middot;
   <a href="mailto:omegaincomeclub@gmail.com">Contact owner</a></p>
-  <p class="visitor-count" id="visitor-count" aria-live="polite"></p>
 </footer>
 
 <script>
@@ -557,36 +556,6 @@ def generate_html(domain, cfg, articles, date_str, css):
       btn.disabled = false;
     }});
   }});
-
-  // Visitor counter — CounterAPI.dev for shared count, localStorage fallback if the
-  // API fails (CORS, carrier filter, service down) so the pill is always visible.
-  (function () {{
-    var el = document.getElementById('visitor-count');
-    if (!el) return;
-    var slug = (window.location.hostname || 'local').replace(/^www\./, '').replace(/\./g, '-');
-    var key  = 'vc-' + slug;
-    function render(n) {{ el.innerHTML = '<span class="vc-num">' + n.toLocaleString() + '</span> visits'; }}
-    el.textContent = 'Loading visits…';
-    function fallback() {{
-      var n = (parseInt(localStorage.getItem(key), 10) || 0) + 1;
-      localStorage.setItem(key, String(n));
-      render(n);
-    }}
-    var done = false;
-    var timeout = setTimeout(function () {{ if (!done) {{ done = true; fallback(); }} }}, 2500);
-    fetch('https://api.counterapi.dev/v1/omegaincomeclub/' + slug + '/up')
-      .then(function (r) {{ return r.ok ? r.json() : null; }})
-      .then(function (d) {{
-        if (done) return;
-        done = true; clearTimeout(timeout);
-        if (d && typeof d.count === 'number') render(d.count); else fallback();
-      }})
-      .catch(function () {{
-        if (done) return;
-        done = true; clearTimeout(timeout);
-        fallback();
-      }});
-  }})();
 }})();
 </script>
 </body>
